@@ -1,0 +1,4 @@
+baseURL = "http://kairos-research.org/"
+languageCode = "en-us"
+title = "Kairos Cliodynamics"
+theme = "ananke"
