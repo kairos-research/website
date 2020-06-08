@@ -2,7 +2,7 @@
 title: "Beyond State"
 author: Avel GUÉNIN--CARLUT
 date: 2020-03-15T21:56:56+02:00
-draft: true
+draft: false
 ---
 
 States today seem to exert an undisputed hegemony over the governance of human societies. It seems natural to project their predominance on the past as well as on the future, or at least to imagine the world outside state regulation as wild, uncultivated, and unfit for human life. However, and against what seems obvious, States constitute a marginal and fragile mode of organization on the scale of human history. In the light of the work on the evolution of human societies over long period of time, it even seems doubtful whether these institutions will be able to maintain their dominance in the near future. Here we will discuss the role of culture in the evolution of the human species, and interpret through it the known history of state institutions. Finally, we will articulate an anthropological prospective of the role of the state in the near future of human societies.

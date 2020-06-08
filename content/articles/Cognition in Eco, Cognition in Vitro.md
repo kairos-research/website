@@ -2,7 +2,7 @@
 title: "Cognition in Eco, Cognition in Vitro"
 author: Avel GUÉNIN--CARLUT
 date: 2020-01-29T21:57:12+02:00
-draft: true
+draft: false
 ---
 
 The cognitive sciences are an interdisciplinary research project, built in the context of Macy's conferences around the cognitivist paradigm that compares the functioning of the human mind with that of a computer. Sixty-seven years later, this project seems to have exploded between many competing approaches (Núñez et al., 2019), presumably under the abundant evidence of fundamental discrepancies between human cognition and artificial computation (Braitenberg, 1986; Brooks, 1991; Clark & Chalmers, 1998; Damasio, 1995; Varela et al., 2016). Despite this failure to establish an integrated science of human cognition, cognitive psychology remains for some authors a necessary basis for any research in the social sciences and humanities (Sperber, 1996). According to them, only a detailed description of the cognitive dynamics underlying social phenomenons can shed light on their causal mechanisms, and thus integrate them into a global vision of natural phenomenons. I will discuss here the adequacy of this thesis in view of the mathematical approaches that ground our understanding of the passage from the level of individual laws to the level of collective behaviour, as well as contemporary sciences that already study humans as part of the natural world.

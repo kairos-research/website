@@ -2,7 +2,7 @@
 title: "Low Tech against the State"
 author: Avel GUÉNIN--CARLUT
 date: 2020-04-29T20:14:44+02:00
-draft: true
+draft: false
 ---
 
 ## Cumulative cultural evolution and the maladaptive loss of knowledge
