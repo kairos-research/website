@@ -3,28 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kairos-research.org/showcase/</loc>
-    <lastmod>2020-05-09T15:09:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kairos-research.org/our-projects/</loc>
-    <lastmod>2020-05-09T14:55:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kairos-research.org/about/</loc>
-    <lastmod>2020-04-19T20:17:14+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kairos-research.org/articles/</loc>
-    <lastmod>2020-04-29T20:14:44+02:00</lastmod>
+    <lastmod>2020-06-08T15:13:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/showcase/</loc>
   </url>
   
   <url>
     <loc>http://kairos-research.org/</loc>
-    <lastmod>2020-04-29T20:14:44+02:00</lastmod>
+    <lastmod>2020-06-08T15:13:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/articles/state-of-the-art/</loc>
+    <lastmod>2020-06-08T15:13:19+02:00</lastmod>
   </url>
   
   <url>
@@ -49,6 +47,30 @@
   
   <url>
     <loc>http://kairos-research.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/cultural-ecology/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/cultural-evolution-seminar/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/epistemology-and-ontology/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/journal-club/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/kairos-journal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/projects/pedagogical-project/</loc>
   </url>
   
   <url>
