@@ -18,6 +18,7 @@ The goal of this project is to study, from an empirical and theoretical perspect
 
 Our articles : [Low Tech against the State](/articles/low-tech-against-the-state/)
 
+<!---
 
 %% ## Rituals, psychedelics, and spirituality
 
@@ -36,6 +37,13 @@ This work exposes how the mathematical language emerged from unrelated cultural 
 This project is led by Çan KONUK and Avel GUÉNIN--CARLUT.
 
 
+Netz, R. (1999). The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History (Ideas in Context). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543296
+
+Parry, M. (1930) "Studies in the Epic Technique of Oral Verse-Making I. Homer and the Homeric Style," HSCP 41 (1930) 73-147
+
+-->
+
+
 
 [^1]: Norenzayan, Ara et al. 2016. ‘The Cultural Evolution of Prosocial Religions’. Behavioral and Brain Sciences 39. https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/cultural-evolution-of-prosocial-religions/01B053B0294890F8CFACFB808FE2A0EF (February 27, 2020).
 
@@ -50,9 +58,3 @@ This project is led by Çan KONUK and Avel GUÉNIN--CARLUT.
 [^6]: Bihouix, Philippe. 2014. L’Âge des low tech. Vers une civilisation techniquement soutenable: Vers une civilisation techniquement soutenable. Le Seuil.
 
 [^7]: Servigne, Pablo, and Raphaël Stevens. 2015. Comment tout peut s’effondrer. Petit manuel de collapsologie à l’usage des générations présentes: Petit manuel de collapsologie à l’usage des générations présentes. Le Seuil.
-
-
-
-Netz, R. (1999). The Shaping of Deduction in Greek Mathematics: A Study in Cognitive History (Ideas in Context). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543296
-
-Parry, M. (1930) "Studies in the Epic Technique of Oral Verse-Making I. Homer and the Homeric Style," HSCP 41 (1930) 73-147
