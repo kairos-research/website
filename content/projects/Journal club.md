@@ -1,5 +1,5 @@
 ---
-title: "Boisson Article Fromage journal club"
+title: "BAF journal club"
 draft: false
 ---
 
