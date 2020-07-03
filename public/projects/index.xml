@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our projects on Kairos Cliodynamics</title>
+    <link>http://kairos-research.org/projects/</link>
+    <description>Recent content in Our projects on Kairos Cliodynamics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://kairos-research.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cultural ecology of belief, practices and institutions</title>
+      <link>http://kairos-research.org/projects/cultural-ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/cultural-ecology/</guid>
+      <description>We are working to study how culture itself builds the niche where culture evolves, or in other words how multi-level interaction between cultural traits build through time the landscape where these same traits evolve. This amounts to study social forms, such as a specific form of ritual, as autonomous organisms engaging in niche construction. For exemple, the invention of a new media could enable the creation of new cultural traits giving more influence to its adepts, and indirectly reinforce its own hegemony.</description>
+    </item>
+    
+    <item>
+      <title>Cultural evolution seminar</title>
+      <link>http://kairos-research.org/projects/cultural-evolution-seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/cultural-evolution-seminar/</guid>
+      <description>We organised a seminar presenting an overview of cultural evolution research with the ENS Ulm Département d’Études Cognitives. Initially programmed from February to April 2020, it was postponed indefinitely due to the coronavirus crisis.
+The goal of the seminar is to give non-experts a general picture of contemporary research relative to human evolution, including its main results, its contemporary debates, and its institutions. In this optic, we first present the general framework of evolution theory, then show how humans evolved to become a cultural species.</description>
+    </item>
+    
+    <item>
+      <title>Epistemology and Ontology of cultural evolution</title>
+      <link>http://kairos-research.org/projects/epistemology-and-ontology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/epistemology-and-ontology/</guid>
+      <description>We are interested in the philosophy of cultural evolution, and how it informs philosophical theories of knowldege (epistemology) and representation of what exists in the world (ontology). We study more particularly the way we build knowledge in cultural evolution theory (its epistemology) and what fundamental entities it invokes to represent the world (its ontology). We argue those are two important elements to the integration of cultural evolution theory to pragmatic action, as they respectively allow to integrate its results to a broader body of knowledge, and to translate it into mundane intuition about the world.</description>
+    </item>
+    
+    <item>
+      <title>Journal club</title>
+      <link>http://kairos-research.org/projects/journal-club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/journal-club/</guid>
+      <description>We organise regular meetings around the presentation of specific articles or research in cultural evolution, cliodynamics, or human evolution. These events are based on voluntary participation of young researchers willing to present research articles, or more generally to share their reflexions in a friendly and informal context. In addition, they are an occasion for those interested in cultural evolution to gather around food and drinks, and either participate actively in the discussion or just sit back and listen.</description>
+    </item>
+    
+    <item>
+      <title>Kairos Journal</title>
+      <link>http://kairos-research.org/projects/kairos-journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/kairos-journal/</guid>
+      <description>The Kairos journal is a minimalist journal of cultural evolution. Its focus is to synthetise theoretical knowledge of social networks, institutional change, collective cognition or other dimensions of cultural evolution, and bridge it with pragmatic insight about human societies. The range of topics we adress is intentionally wide as we aim to ground a systemic understanding of how human interactions drive societies rather than adavance a specific theoretical framework. We are especially interested in discussing what scientific knowledge means from a cultural evolutionary perspective, and how it may guide action in shifting societies.</description>
+    </item>
+    
+    <item>
+      <title>Pedagogical project</title>
+      <link>http://kairos-research.org/projects/pedagogical-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/pedagogical-project/</guid>
+      <description>We are working to develop a method to improve education and learning in University based on Multi-Level Selection theory, which focuses on how competition between social groups facilitate the emergece of cooperation within these groups. We are mainly inspired by Elinor Ostrom&amp;rsquo;s work on how humans organise to govern common resources in collective autonomy 1, and its numerous applications in attempting to build inclusive and functional institutions - in particular in the context of the Evolution Institute 2.</description>
+    </item>
+    
+  </channel>
+</rss>
