@@ -1,9 +1,7 @@
 ---
 title: "Showcase"
 menu: "main"
-weight: 10
-date: 2020-05-09T15:09:47+02:00
-draft: false
+weight: 50
 ---
 
 As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work :

@@ -1,7 +1,6 @@
 ---
 title: "Epistemology and Ontology of cultural evolution"
-date: 2020-06-24T18:37:09+02:00
-draft: true
+draft: false
 ---
 
 We are interested in the philosophy of cultural evolution, and how it informs philosophical theories of knowldege (epistemology) and representation of what exists in the world (ontology). We study more particularly the way we build knowledge in cultural evolution theory (its epistemology) and what fundamental entities it invokes to represent the world (its ontology). We argue those are two important elements to the integration of cultural evolution theory to pragmatic action, as they respectively allow to integrate its results to a broader body of knowledge, and to translate it into mundane intuition about the world.
@@ -34,6 +33,9 @@ A recurrent notion in cultural evolution is the characterisation of cumulative c
 We work to formalise the proper domain of the analogy between cultural evolution and cognition, and to expose its consequences in the concepts we recruit to understand human societies.
 
 This project is led by Avel GUÉNIN--CARLUT and Alexis ROZANSKI.
+
+Our articles : [Cognition in Eco, Cognition in Vitro](/articles/cognition-in-eco-cognition-in-vitro/)
+
 
 
 [^1]: Atran, Scott, and Ara Norenzayan. 2004. ‘Religion’s Evolutionary Landscape: Counterintuition, Commitment, Compassion, Communion’. Behavioral and Brain Sciences 27(6): 713–30.

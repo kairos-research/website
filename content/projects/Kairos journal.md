@@ -1,7 +1,6 @@
 ---
 title: "Kairos Journal"
-date: 2020-06-24T18:42:22+02:00
-draft: true
+draft: false
 ---
 
 The Kairos journal is a minimalist journal of cultural evolution. Its focus is to synthetise theoretical knowledge of social networks, institutional change, collective cognition or other dimensions of cultural evolution, and bridge it with pragmatic insight about human societies. The range of topics we adress is intentionally wide as we aim to ground a systemic understanding of how human interactions drive societies rather than adavance a specific theoretical framework. We are especially interested in discussing what scientific knowledge means from a cultural evolutionary perspective, and how it may guide action in shifting societies.

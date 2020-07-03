@@ -1,7 +1,6 @@
 ---
 title: "Journal club"
-date: 2020-06-24T19:07:39+02:00
-draft: true
+draft: false
 ---
 
 We organise regular meetings around the presentation of specific articles or research in cultural evolution, cliodynamics, or human evolution. These events are based on voluntary participation of young researchers willing to present research articles, or more generally to share their reflexions in a friendly and informal context. In addition, they are an occasion for those interested in cultural evolution to gather around food and drinks, and either participate actively in the discussion or just sit back and listen.

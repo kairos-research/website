@@ -1,5 +1,5 @@
 ---
-title: "Evolution, cognition, and naturalism in the social sciences : a short review"
+title: "Naturalism in the social sciences : a short review"
 author: Avel GUÉNIN--CARLUT
 date: 2020-06-08T15:13:19+02:00
 draft: false

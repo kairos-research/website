@@ -1,9 +1,5 @@
 ---
-title: "About us"
-menu: "main"
-weight: 50
-date: 2020-04-19T20:17:14+02:00
-draft: false
+title: "Kairos Cliodynamics"
 ---
 
 Kairos is the ancient Greek word traducing the notion of the "instant", the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is intended here to convey a perspective of life, change, and pragmatism drawing both from philosophy and from science. We understand that science serves to guide action, and work to expose both why it does and how it can do so.

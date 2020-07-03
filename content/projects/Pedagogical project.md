@@ -1,7 +1,6 @@
 ---
 title: "Pedagogical project"
-date: 2020-06-24T18:35:18+02:00
-draft: true
+draft: false
 ---
 
 We are working to develop a method to improve education and learning in University based on Multi-Level Selection theory, which focuses on how competition between social groups facilitate the emergece of cooperation within these groups. We are mainly inspired by Elinor Ostrom's work on how humans organise to govern common resources in collective autonomy [^1], and its numerous applications in attempting to build inclusive and functional institutions - in particular in the context of the Evolution Institute [^2].

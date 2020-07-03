@@ -1,6 +1,6 @@
 ---
 title: "Cultural ecology of belief, practices and institutions"
-draft: true
+draft: false
 ---
 
 We are working to study how culture itself builds the niche where culture evolves, or in other words how multi-level interaction between cultural traits build through time the landscape where these same traits evolve. This amounts to study social forms, such as a specific form of ritual, as autonomous organisms engaging in niche construction. For exemple, the invention of a new media could enable the creation of new cultural traits giving more influence to its adepts, and indirectly reinforce its own hegemony.

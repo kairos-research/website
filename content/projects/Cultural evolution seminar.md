@@ -1,7 +1,6 @@
 ---
 title: "Cultural evolution seminar"
-date: 2020-06-24T18:40:17+02:00
-draft: true
+draft: false
 ---
 
 We organised a seminar presenting an overview of cultural evolution research with the ENS Ulm Département d’Études Cognitives. Initially programmed from February to April 2020, it was postponed indefinitely due to the coronavirus crisis.
