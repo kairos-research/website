@@ -9,6 +9,11 @@
   
   <url>
     <loc>http://kairos-research.org/projects/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/communities/</loc>
   </url>
   
   <url>
@@ -47,30 +52,36 @@
   
   <url>
     <loc>http://kairos-research.org/projects/journal-club/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kairos-research.org/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kairos-research.org/projects/cultural-ecology/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kairos-research.org/projects/cultural-evolution-seminar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kairos-research.org/projects/epistemology-and-ontology/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kairos-research.org/projects/kairos-journal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kairos-research.org/projects/pedagogical-project/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/categories/</loc>
   </url>
   
   <url>

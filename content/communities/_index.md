@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Local communities"
 menu: "main"
 weight: 30
 ---

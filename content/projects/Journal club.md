@@ -1,5 +1,6 @@
 ---
 title: "BAF journal club"
+date: 2020-01-01
 draft: false
 ---
 

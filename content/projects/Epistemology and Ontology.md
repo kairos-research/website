@@ -1,5 +1,6 @@
 ---
 title: "Epistemology and Ontology of cultural evolution"
+date: 2020-01-01
 draft: false
 ---
 

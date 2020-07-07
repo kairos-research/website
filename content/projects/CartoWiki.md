@@ -1,6 +1,6 @@
 ---
 title: "CartoWiki"
-date: 2020-06-24T19:00:42+02:00
+date: 2020-01-01
 draft: true
 ---
 
