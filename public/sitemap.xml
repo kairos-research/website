@@ -14,6 +14,7 @@
   
   <url>
     <loc>http://kairos-research.org/communities/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -56,6 +57,11 @@
   </url>
   
   <url>
+    <loc>http://kairos-research.org/projects/cartowiki/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kairos-research.org/projects/cultural-ecology/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -67,6 +73,21 @@
   
   <url>
     <loc>http://kairos-research.org/projects/epistemology-and-ontology/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/communities/lyon/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/communities/marseille/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/communities/paris/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

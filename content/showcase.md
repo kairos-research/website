@@ -1,7 +1,7 @@
 ---
 title: "Showcase"
 menu: "main"
-weight: 50
+weight: 70
 ---
 
 As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work :

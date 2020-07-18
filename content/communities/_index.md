@@ -1,5 +1,5 @@
 ---
 title: "Local communities"
 menu: "main"
-weight: 30
+weight: 50
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kairos Cliodynamics - Marseille"
 date: 2020-01-01
-draft: true
+draft: false
 ---
 
 The Marseille community is working to [adapt Ostrom and Wilson's work on collective autonomy to higher eduction](/projects/pedagogical-project/), and is providing [a dynamic map of socio-political evolution during human history](/projects/cartowiki/)
