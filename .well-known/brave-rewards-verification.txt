@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kairos-research.org
+Token: 4e047a06dd722167e89eb9887746a8f6576a949df49f5c875972070aa5c10776
