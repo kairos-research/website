@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>BAF journal club</title>
-      <link>http://kairos-research.org/projects/journal-club/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://kairos-research.org/projects/journal-club/</guid>
-      <description>We organise regular meetings around the presentation of specific articles or research in cultural evolution, cliodynamics, or human evolution. These events are based on voluntary participation of students and young researchers willing to present research articles, or more generally to share their reflexions in a friendly and informal context. In addition, they are an occasion for those interested in cultural evolution to gather around food and drinks, and either participate actively in the discussion or just sit back and listen.</description>
-    </item>
-    
-    <item>
       <title>CartoWiki</title>
       <link>http://kairos-research.org/projects/cartowiki/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -65,6 +56,15 @@ The goal of the seminar is to give non-experts a general picture of contemporary
       
       <guid>http://kairos-research.org/projects/kairos-journal/</guid>
       <description>The Kairos journal is a minimalist journal of cultural evolution. Its focus is to synthetise theoretical knowledge of social networks, institutional change, collective cognition or other dimensions of cultural evolution, and bridge it with pragmatic insight about human societies. The range of topics we adress is intentionally wide as we aim to ground a systemic understanding of how human interactions drive societies rather than adavance a specific theoretical framework. We are especially interested in discussing what scientific knowledge means from a cultural evolutionary perspective, and how it may guide action in shifting societies.</description>
+    </item>
+    
+    <item>
+      <title>Kairos meetings</title>
+      <link>http://kairos-research.org/projects/kairos-meetings/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://kairos-research.org/projects/kairos-meetings/</guid>
+      <description>We organise regular meetings around the presentation of specific articles or research in cultural evolution, cliodynamics, or human evolution. These events are based on voluntary participation of students and young researchers willing to present research articles, or more generally to share their reflexions in a friendly and informal context. In addition, they are an occasion for those interested in cultural evolution to gather around food and drinks, and either participate actively in the discussion or just sit back and listen.</description>
     </item>
     
     <item>

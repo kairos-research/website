@@ -1,5 +1,5 @@
 ---
-title: "BAF journal club"
+title: "Kairos meetings"
 date: 2020-01-01
 draft: false
 ---

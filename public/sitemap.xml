@@ -52,11 +52,6 @@
   </url>
   
   <url>
-    <loc>http://kairos-research.org/projects/journal-club/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kairos-research.org/projects/cartowiki/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -97,8 +92,17 @@
   </url>
   
   <url>
+    <loc>http://kairos-research.org/projects/kairos-meetings/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kairos-research.org/projects/pedagogical-project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kairos-research.org/articles/article-intro-seshat/</loc>
   </url>
   
   <url>
