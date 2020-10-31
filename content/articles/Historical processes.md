@@ -36,7 +36,7 @@ Human cognition works in such a way that objectivity is illusory. We have priors
 
 Among those models, there are some that formally transcribe alleged causal pathways : in Turing's morphogenesis model exemple, it is the interplay between the passive diffusion of chemical species and the active production of those species by cellular metabolism which drives the emergence of asymmetry in developing organisms, interplay which is captured in part through his reaction-diffusion equations.
 
-Those allow an epistemilogical manoeuver that, one could argue, make up for the absence of individual or collective objective rationality. This manoeuver consists in testing of the formal model by drawing its expected consequences in some particular conditions, and consequently trying to observe whether those consequences are indeed verified. This strategy, which we will call "instrumental prediction", is the core of the mainstream popperian delimitation between science and pseudo-science.
+Those allow an epistemological manoeuver that, one could argue, make up for the absence of individual or collective objective rationality. This manoeuver consists in testing of the formal model by drawing its expected consequences in some particular conditions, and consequently trying to observe whether those consequences are indeed verified. This strategy, which we will call "instrumental prediction", is the core of the mainstream popperian delimitation between science and pseudo-science.
 
 
 ## Models and instruments in the natural sciences
