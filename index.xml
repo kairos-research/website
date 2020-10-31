@@ -6,11 +6,7 @@
     <description>Recent content on Kairos Cliodynamics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 15:13:19 +0200</lastBuildDate>
-    
-	<atom:link href="http://kairos-research.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 08 Jun 2020 15:13:19 +0200</lastBuildDate><atom:link href="http://kairos-research.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcase</title>
       <link>http://kairos-research.org/showcase/</link>
@@ -38,7 +34,7 @@ Our talks 2020 january 16 : Is cognition individual ? A complex system perspecti
       <pubDate>Wed, 29 Apr 2020 20:14:44 +0200</pubDate>
       
       <guid>http://kairos-research.org/articles/low-tech-against-the-state/</guid>
-      <description>Cumulative cultural evolution and the maladaptive loss of knowledge Humans are characterised as a specie by their exceptional ability for social learning. Indeed, while they are mostly unable to understand causally the tools they use, they are however able to identify who to learn from and what features to reproduce in a way that allow the maintenance and progress of their adaptive knowledge (Derex et al., 2019). In turn, this ability means that social structure &amp;amp; the sheer size of societies constrains the evolution of technology (Derex &amp;amp; Boyd, 2016) : more densely connected societies with a diversity of subpopulations are better able to maintain complex technologies such as ironwork than sparser or homogenous societies.</description>
+      <description>Cumulative cultural evolution and the maladaptive loss of knowledge Humans are characterised as a specie by their exceptional ability for social learning. Indeed, while they are mostly unable to understand causally the tools they use, they are however able to identify who to learn from and what features to reproduce in a way that allow the maintenance and progress of their adaptive knowledge 1. In turn, this ability means that social structure &amp;amp; the sheer size of societies constrains the evolution of technology 2 : more densely connected societies with a diversity of subpopulations are better able to maintain complex technologies such as ironwork than sparser or homogenous societies.</description>
     </item>
     
     <item>
@@ -161,16 +157,6 @@ Want to participate or ask questions ? Mail us at kairoscliodynamics@disroot.org
       
       <guid>http://kairos-research.org/projects/pedagogical-project/</guid>
       <description>We are working to develop a method to improve education and learning in University based on Multi-Level Selection theory, which focuses on how competition between social groups facilitate the emergece of cooperation within these groups. We are mainly inspired by Elinor Ostrom&amp;rsquo;s work on how humans organise to govern common resources in collective autonomy 1, and its numerous applications in attempting to build inclusive and functional institutions - in particular in the context of the Evolution Institute 2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://kairos-research.org/articles/article-intro-seshat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kairos-research.org/articles/article-intro-seshat/</guid>
-      <description>An overview of Seshat Nicolas Salerno for Kairos Cliodynamics April 2020
-1) Seshat: Global History Databank For a long time, historians, anthropologists and scholars of all kinds have accumulated a huge quantity of data about the past. Unfortunately, those data are unavailable for longitudinal analysis because they are scattered in one’s brain, books, publications and mostly in an unusable form even if we could gather them all. However, such a knowledge is essential to create a science of history as it is its empirical basis and Culture in itself as we need a global perspective on its evolution.</description>
     </item>
     
   </channel>
