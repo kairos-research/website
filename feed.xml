@@ -3,7 +3,7 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2021-06-06T17:03:55+02:00</updated>
+    <updated>2021-06-07T09:04:21+02:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
@@ -224,18 +224,15 @@
         <id>https://kairos-research.org/chart.html</id>
             <category term="Page"/>
 
-        <updated>2021-06-06T17:03:55+02:00</updated>
+        <updated>2021-06-07T09:04:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    Kairos is the ancient Greek word standing for the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent&hellip;
+                    Our mission Kairos implements a participatory research and scientific mediation approach integrating several disciplines at the interface between natural and social sciences: cognitive sciences, cliodynamics, cultural evolution, computational sociology… Our objective is above all to integrate into the collective conception of the social, economic and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Kairos is the ancient Greek word standing for the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent struggling to enact meaning into a complex and impermanent reality. In order to survive, any living system must learn to perceive the appropriate time and way to act so as to maintain its structure.</p>
-<p>We are a grassroots collective of scientific mediation and participatory research in systemic (or dynamic) approaches to social sciences. Our purpose is to synthesize knowledge from research on complex systems, social sciences, and epistemology so as to leverage it into a pragmatic understanding of the processes driving social-cultural dynamics. We hope this empowers informed collective decisions on shaping the evolution of our societies in the coming decades.</p>
-<p>We want to build a science that is agile, open to all, reflective on its own role in building models of reality, and relevant to people willing to adress the systemic issues driving the Anthropocene crisis. Our project is an experiment in creating research institutions which do not only work to understand what shapes sensible reality, but also use this knowledge to actively accompany meaningful transformation in culture and social institutions.</p>
-<h2 id="our-mission">Our mission</h2>
+                <h2 id="our-mission">Our mission</h2>
 <p>Kairos implements a participatory research and scientific mediation approach integrating several disciplines at the interface between natural and social sciences: cognitive sciences, cliodynamics, cultural evolution, computational sociology… Our objective is above all to integrate into the collective conception of the social, economic and political world an awareness of the complex dynamics that structure them over time. We use an integral naturalist approach aiming at understanding the observable world through the study of its underlying causal structures, while reflexively applying this same study to scientific research itself. Our approach thus involves drawing on the tools of the natural sciences as well as those of the social sciences and philosophy.</p>
 <p>We want to create a research dynamic outside the academic framework to build transdisciplinary knowledge, and to encourage the development of a large-scale naturalist and critical reflection. This approach implies the renunciation of the belief in the unity or objectivity of scientific knowledge, in favor of a pragmatic conception of research as a tool for understanding and navigating the world. We wish to develop a set of conceptual and methodological tools integrating systemic understanding and situated action within human societies, which can serve a democratic decision-making process capable of navigating the long-term dynamics and structural impermanence whose emergence characterizes the so-called Anthropocene era.</p>
 <p>We defend a research ethic oriented towards a situated understanding of social systems and the processes that structure them, and towards a mutual integration of scientific research and contemporary socio-political issues. We therefore oppose the managerial logic embodied in the current academic system, which encourages, through disciplinary compartmentalization and competition for funding, a dynamic of absurd intellectual inflation, and thus seriously harms our ability to understand in an appropriate way the world in which we live. We are therefore committed to building, embodying and disseminating a model of research that is emancipated from the elitism, managerial logic, and power conflicts that define academic research.</p>
@@ -260,7 +257,7 @@
         <id>https://kairos-research.org/intro.html</id>
             <category term="Page"/>
 
-        <updated>2021-06-06T12:57:06+02:00</updated>
+        <updated>2021-06-07T09:04:06+02:00</updated>
             <summary>
                 <![CDATA[
                     Kairos is the ancient Greek word traducing the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent struggling&hellip;
@@ -271,6 +268,7 @@
                 <p>Kairos is the ancient Greek word traducing the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent struggling to enact meaning into a complex and impermanent reality. In order to survive, any living system must learn to perceive the appropriate time and way to act so as to maintain its structure.</p>
 <p>We are a grassroots collective of scientific mediation and participatory research in systemic (or dynamic) approaches to social sciences. Our purpose is to synthesize knowledge from research on complex systems, social sciences, and epistemology so as to leverage it into pragmatic understanding of the processes driving social-cultural dynamics. We hope this empowers informed collective decisions on the way our societies will evolve in the coming decades.</p>
 <p>We want to build a science that is agile, open to all, reflective on its own role in building models of reality, and relevant to people willing to adress the systemic issues driving the Anthropocene crisis. Our project is an experiment in creating research institutions which do not only work to understand what shapes sensible reality, and uses this knowledge to actively accompany meaningful transformation in culture and social institutions.</p>
+<p>Do you want to join the project or just talk with us ? You can contact us <a href="kairoscliodynamics@disroot.org">by mail</a> to get informed on our next events, or start participating in our <a href="https://discord.gg/ug5hydK58M">Discord server</a>.</p>
 
             ]]>
         </content>
