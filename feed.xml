@@ -3,7 +3,7 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2021-06-07T09:15:10+02:00</updated>
+    <updated>2021-06-07T09:54:10+02:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/twitch.html"/>
-        <id>https://kairos-research.org/twitch.html</id>
+        <link href="https://kairos-research.org/twitch/"/>
+        <id>https://kairos-research.org/twitch/</id>
             <category term="Activities"/>
 
         <updated>2021-06-06T15:40:21+02:00</updated>
@@ -38,8 +38,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/ergodic-design.html"/>
-        <id>https://kairos-research.org/ergodic-design.html</id>
+        <link href="https://kairos-research.org/ergodic-design/"/>
+        <id>https://kairos-research.org/ergodic-design/</id>
             <category term="Activities"/>
 
         <updated>2021-06-05T19:46:14+02:00</updated>
@@ -62,8 +62,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/kairos-journal.html"/>
-        <id>https://kairos-research.org/kairos-journal.html</id>
+        <link href="https://kairos-research.org/kairos-journal/"/>
+        <id>https://kairos-research.org/kairos-journal/</id>
             <category term="Activities"/>
 
         <updated>2021-06-05T19:45:37+02:00</updated>
@@ -86,8 +86,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/cultural-ecology.html"/>
-        <id>https://kairos-research.org/cultural-ecology.html</id>
+        <link href="https://kairos-research.org/cultural-ecology/"/>
+        <id>https://kairos-research.org/cultural-ecology/</id>
             <category term="Projects"/>
 
         <updated>2021-06-06T06:59:03+02:00</updated>
@@ -110,8 +110,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/complexity-and-politics.html"/>
-        <id>https://kairos-research.org/complexity-and-politics.html</id>
+        <link href="https://kairos-research.org/complexity-and-politics/"/>
+        <id>https://kairos-research.org/complexity-and-politics/</id>
             <category term="Projects"/>
 
         <updated>2021-06-05T19:40:31+02:00</updated>
@@ -134,8 +134,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/epistemology-and-enactivism.html"/>
-        <id>https://kairos-research.org/epistemology-and-enactivism.html</id>
+        <link href="https://kairos-research.org/epistemology-and-enactivism/"/>
+        <id>https://kairos-research.org/epistemology-and-enactivism/</id>
             <category term="Projects"/>
 
         <updated>2021-06-05T19:39:46+02:00</updated>
@@ -158,8 +158,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/dynamics-of-life-and-consciousness.html"/>
-        <id>https://kairos-research.org/dynamics-of-life-and-consciousness.html</id>
+        <link href="https://kairos-research.org/dynamics-of-life-and-consciousness/"/>
+        <id>https://kairos-research.org/dynamics-of-life-and-consciousness/</id>
             <category term="Projects"/>
 
         <updated>2021-06-05T19:39:14+02:00</updated>
@@ -182,8 +182,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/showcase.html"/>
-        <id>https://kairos-research.org/showcase.html</id>
+        <link href="https://kairos-research.org/showcase/"/>
+        <id>https://kairos-research.org/showcase/</id>
             <category term="Page"/>
 
         <updated>2021-06-05T19:38:07+02:00</updated>
@@ -220,8 +220,8 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/chart.html"/>
-        <id>https://kairos-research.org/chart.html</id>
+        <link href="https://kairos-research.org/chart/"/>
+        <id>https://kairos-research.org/chart/</id>
             <category term="Page"/>
 
         <updated>2021-06-07T09:04:21+02:00</updated>
@@ -253,11 +253,11 @@
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/intro.html"/>
-        <id>https://kairos-research.org/intro.html</id>
+        <link href="https://kairos-research.org/intro/"/>
+        <id>https://kairos-research.org/intro/</id>
             <category term="Page"/>
 
-        <updated>2021-06-07T09:15:10+02:00</updated>
+        <updated>2021-06-07T09:54:10+02:00</updated>
             <summary>
                 <![CDATA[
                     Kairos is the ancient Greek word traducing the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent struggling&hellip;
@@ -268,8 +268,7 @@
                 <p>Kairos is the ancient Greek word traducing the notion of the “instant”, the discrete time when an opportunity occurs and one can either act to seize it or fail to do so. It is meant here to convey the subjective perspective of an agent struggling to enact meaning into a complex and impermanent reality. In order to survive, any living system must learn to perceive the appropriate time and way to act so as to maintain its structure.</p>
 <p>We are a grassroots collective of scientific mediation and participatory research in systemic (or dynamic) approaches to social sciences. Our purpose is to synthesize knowledge from research on complex systems, social sciences, and epistemology so as to leverage it into pragmatic understanding of the processes driving social-cultural dynamics. We hope this empowers informed collective decisions on the way our societies will evolve in the coming decades.</p>
 <p>We want to build a science that is agile, open to all, reflective on its own role in building models of reality, and relevant to people willing to adress the systemic issues driving the Anthropocene crisis. Our project is an experiment in creating research institutions which do not only work to understand what shapes sensible reality, and uses this knowledge to actively accompany meaningful transformation in culture and social institutions.</p>
-<p>Do you want to get involved ? You can contact us <a href="mailto:kairoscliodynamics@disroot.org">by mail</a> to get informed on our next events, or join our <a href="https://discord.gg/ug5hydK58M">Discord server</a> and talk with us.</p>
-
+<pre><code>Do you want to learn more about us ? You can read [our chart](https://kairos-research.org/chart.html) or [articles](https://kairos-research.org/tags/article/), and contact us [by mail](mailto:kairoscliodynamics@disroot.org) to get informed on our next events. You can also join our [Discord server](https://discord.gg/ug5hydK58M) and get involved in our discussions. </code></pre>
             ]]>
         </content>
     </entry>
