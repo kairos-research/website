@@ -3,7 +3,7 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2022-10-29T14:05:53+01:00</updated>
+    <updated>2022-10-29T15:36:00+01:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
@@ -371,10 +371,10 @@
         <id>https://kairos-research.org/showcase/</id>
             <category term="Pages"/>
 
-        <updated>2022-03-07T13:02:33+00:00</updated>
+        <updated>2022-10-29T15:36:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work : Our publications Friedman, Daniel et al. 2022. ‘An Active Inference Ontology for Decentralized Science: From Situated Sensemaking to the Epistemic Commons’.
+                    As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work : Our publications Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. https://doi.org/10.31219/osf.io/68947. Friedman, Daniel&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -382,9 +382,10 @@
                 <p>As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work :</p>
 <h2 id="our-publications">Our publications</h2>
 <ul>
+<li>Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/68947">https://doi.org/10.31219/osf.io/68947</a>.</li>
 <li>Friedman, Daniel et al. 2022. ‘An Active Inference Ontology for Decentralized Science: From Situated Sensemaking to the Epistemic Commons’. <a href="https://zenodo.org/record/6320575">https://zenodo.org/record/6320575</a> (March 7, 2022).</li>
 <li>Guénin–Carlut, Avel. 2022. ‘Cognitive Agency in Sociocultural Evolution’. <a href="https://osf.io/x7yr4/">https://osf.io/x7yr4/</a> (January 14, 2022).</li>
-<li>Guénin–Carlut, Avel. 2021. ‘Thinking like a State - Embodied Intelligence in the Deep History of Our Collective Minds’. <a href="https://osf.io/dxnzt/">https://osf.io/dxnzt/</a> (September 20, 2021).</li>
+<li>Guénin—Carlut, Avel. 2022. “Thinking like a State : Embodied Intelligence in the Deep History of Our Collective Mind.” IOP Conference Series: Materials Science and Engineering 1261 (1): 012026. <a href="https://doi.org/10.1088/1757-899X/1261/1/012026">https://doi.org/10.1088/1757-899X/1261/1/012026</a>.</li>
 <li>Guénin–Carlut, A. (2020). Cognition in eco, cognition in vitro - Measurement and explanation in cognitive science <a href="https://doi.org/10.17605/OSF.IO/ERCZ6">https://doi.org/10.17605/OSF.IO/ERCZ6</a></li>
 <li>Guénin–Carlut, A. (2020). Beyond State—Drafting a prospective anthropology. <a href="https://doi.org/10.17605/OSF.IO/EHQJS">https://doi.org/10.17605/OSF.IO/EHQJS</a></li>
 </ul>
