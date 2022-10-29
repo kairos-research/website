@@ -3,7 +3,7 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2022-10-29T14:01:50+01:00</updated>
+    <updated>2022-10-29T14:05:53+01:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://kairos-research.org/on-participatory-realism/</id>
             <category term="Articles"/>
 
-        <updated>2022-10-28T12:56:42+01:00</updated>
+        <updated>2022-10-29T14:05:53+01:00</updated>
             <summary>
                 <![CDATA[
                     Our views of the relation between science and the natural world tend to gravitate between two defining positions : either science offers us a true (although perhaps limited) representation of physical reality, or our representations of the world (although perhaps useful) simply lack the properties&hellip;
@@ -53,22 +53,24 @@
 <p>Thanks to Iona Brenac, Alexis Rozanski and Maxwell Ramstead, whose editorial work helped me make it more accessible to a broader audience than my formal treatment.</p>
 <p>I warmly recommend readers who’d like to understand more about the physics at hand to take a look at the PBS Spacetime series, especially their episode on participatory realism (PBS Space Time 2022). </p>
 <h2 id="bibliography">Bibliography</h2>
-<p>Aspect, Alain, Philippe Grangier, and Gérard Roger. 1982. “Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment: A New Violation of Bell’s Inequalities.” Physical Review Letters 49 (2): 91–94. <a href="https://doi.org/10.1103/PhysRevLett.49.91">https://doi.org/10.1103/PhysRevLett.49.91</a>.
-Bacciagaluppi, Guido. 2020. “The Role of Decoherence in Quantum Mechanics.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2020. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/fall2020/entries/qm-decoherence/">https://plato.stanford.edu/archives/fall2020/entries/qm-decoherence/</a>.
-Clark, Andy. 2019. Perception As Controlled Hallucination. <a href="https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination">https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination</a>.
-Colombo, Matteo, Stephan Hartmann, and Robert van Iersel. 2015. “Models, Mechanisms, and Coherence.” The British Journal for the Philosophy of Science 66 (1): 181–212. <a href="https://doi.org/10.1093/bjps/axt043">https://doi.org/10.1093/bjps/axt043</a>.
-Fields, Chris, Karl Friston, James F. Glazebrook, and Michael Levin. 2021. “A Free Energy Principle for Generic Quantum Systems.” arXiv:2112.15242. arXiv. <a href="http://arxiv.org/abs/2112.15242">http://arxiv.org/abs/2112.15242</a>.
-Fields, Chris, and Michael Levin. 2020. “How Do Living Systems Create Meaning?” Philosophies 5 (4): 36. <a href="https://doi.org/10.3390/philosophies5040036">https://doi.org/10.3390/philosophies5040036</a>.
-Froese, Tom. 2022. “Scientific Observation Is Socio-Materially Augmented Perception: Toward a Participatory Realism.” Philosophies 7 (2): 37. <a href="https://doi.org/10.3390/philosophies7020037">https://doi.org/10.3390/philosophies7020037</a>.
-Fuchs, Christopher A. 2017. “On Participatory Realism.” In Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge, edited by Ian T. Durham and Dean Rickles, 113–34. The Frontiers Collection. Cham: Springer International Publishing. <a href="https://doi.org/10.1007/978-3-319-43760-6_7">https://doi.org/10.1007/978-3-319-43760-6_7</a>.
-Griffiths, Robert B. 2019. “The Consistent Histories Approach to Quantum Mechanics.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2019. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/sum2019/entries/qm-consistent-histories/">https://plato.stanford.edu/archives/sum2019/entries/qm-consistent-histories/</a>.
-Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/68947">https://doi.org/10.31219/osf.io/68947</a>.
-Jacques, Vincent, E. Wu, Frédéric Grosshans, François Treussart, Philippe Grangier, Alain Aspect, and Jean-François Roch. 2007. “Experimental Realization of Wheeler’s Delayed-Choice GedankenExperiment.” Science 315 (5814): 966–68. <a href="https://doi.org/10.1126/science.1136303">https://doi.org/10.1126/science.1136303</a>.
-Ladyman, James. 2020. “Structural Realism.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/win2020/entries/structural-realism/">https://plato.stanford.edu/archives/win2020/entries/structural-realism/</a>.
-Lakatos, Imre. 1976. “Falsification and the Methodology of Scientific Research Programmes.” In Can Theories Be Refuted? Essays on the Duhem-Quine Thesis, edited by Sandra G. Harding, 205–59. Synthese Library. Dordrecht: Springer Netherlands. <a href="https://doi.org/10.1007/978-94-010-1863-0_14">https://doi.org/10.1007/978-94-010-1863-0_14</a>.
-PBS Space Time, dir. 2022. Does the Universe Create Itself? <a href="https://www.youtube.com/watch?v=I8p1yqnuk8Y">https://www.youtube.com/watch?v=I8p1yqnuk8Y</a>.
-Ramstead, Maxwell James, Casper Hesp, Lars Sandved-Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, et al. 2021. “From Generative Models to Generative Passages: A Computational Approach to (Neuro)Phenomenology.” PsyArXiv. <a href="https://doi.org/10.31234/osf.io/k9pbn">https://doi.org/10.31234/osf.io/k9pbn</a>.
-Tegmark, Max. 2012. “How Unitary Cosmology Generalizes Thermodynamics and Solves the Inflationary Entropy Problem.” Physical Review D 85 (12): 123517. <a href="https://doi.org/10.1103/PhysRevD.85.123517">https://doi.org/10.1103/PhysRevD.85.123517</a>.</p>
+<ul>
+<li>Aspect, Alain, Philippe Grangier, and Gérard Roger. 1982. “Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment: A New Violation of Bell’s Inequalities.” Physical Review Letters 49 (2): 91–94. <a href="https://doi.org/10.1103/PhysRevLett.49.91">https://doi.org/10.1103/PhysRevLett.49.91</a>.</li>
+<li>Bacciagaluppi, Guido. 2020. “The Role of Decoherence in Quantum Mechanics.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Fall 2020. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/fall2020/entries/qm-decoherence/">https://plato.stanford.edu/archives/fall2020/entries/qm-decoherence/</a>.</li>
+<li>Clark, Andy. 2019. Perception As Controlled Hallucination. <a href="https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination">https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination</a>.</li>
+<li>Colombo, Matteo, Stephan Hartmann, and Robert van Iersel. 2015. “Models, Mechanisms, and Coherence.” The British Journal for the Philosophy of Science 66 (1): 181–212. <a href="https://doi.org/10.1093/bjps/axt043">https://doi.org/10.1093/bjps/axt043</a>.</li>
+<li>Fields, Chris, Karl Friston, James F. Glazebrook, and Michael Levin. 2021. “A Free Energy Principle for Generic Quantum Systems.” arXiv:2112.15242. arXiv. <a href="http://arxiv.org/abs/2112.15242">http://arxiv.org/abs/2112.15242</a>.</li>
+<li>Fields, Chris, and Michael Levin. 2020. “How Do Living Systems Create Meaning?” Philosophies 5 (4): 36. <a href="https://doi.org/10.3390/philosophies5040036">https://doi.org/10.3390/philosophies5040036</a>.</li>
+<li>Froese, Tom. 2022. “Scientific Observation Is Socio-Materially Augmented Perception: Toward a Participatory Realism.” Philosophies 7 (2): 37. <a href="https://doi.org/10.3390/philosophies7020037">https://doi.org/10.3390/philosophies7020037</a>.</li>
+<li>Fuchs, Christopher A. 2017. “On Participatory Realism.” In Information and Interaction: Eddington, Wheeler, and the Limits of Knowledge, edited by Ian T. Durham and Dean Rickles, 113–34. The Frontiers Collection. Cham: Springer International Publishing. <a href="https://doi.org/10.1007/978-3-319-43760-6_7">https://doi.org/10.1007/978-3-319-43760-6_7</a>.</li>
+<li>Griffiths, Robert B. 2019. “The Consistent Histories Approach to Quantum Mechanics.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Summer 2019. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/sum2019/entries/qm-consistent-histories/">https://plato.stanford.edu/archives/sum2019/entries/qm-consistent-histories/</a>.</li>
+<li>Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/68947">https://doi.org/10.31219/osf.io/68947</a>.</li>
+<li>Jacques, Vincent, E. Wu, Frédéric Grosshans, François Treussart, Philippe Grangier, Alain Aspect, and Jean-François Roch. 2007. “Experimental Realization of Wheeler’s Delayed-Choice GedankenExperiment.” Science 315 (5814): 966–68. <a href="https://doi.org/10.1126/science.1136303">https://doi.org/10.1126/science.1136303</a>.</li>
+<li>Ladyman, James. 2020. “Structural Realism.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2020. Metaphysics Research Lab, Stanford University. <a href="https://plato.stanford.edu/archives/win2020/entries/structural-realism/">https://plato.stanford.edu/archives/win2020/entries/structural-realism/</a>.</li>
+<li>Lakatos, Imre. 1976. “Falsification and the Methodology of Scientific Research Programmes.” In Can Theories Be Refuted? Essays on the Duhem-Quine Thesis, edited by Sandra G. Harding, 205–59. Synthese Library. Dordrecht: Springer Netherlands. <a href="https://doi.org/10.1007/978-94-010-1863-0_14">https://doi.org/10.1007/978-94-010-1863-0_14</a>.</li>
+<li>PBS Space Time, dir. 2022. Does the Universe Create Itself? <a href="https://www.youtube.com/watch?v=I8p1yqnuk8Y">https://www.youtube.com/watch?v=I8p1yqnuk8Y</a>.</li>
+<li>Ramstead, Maxwell James, Casper Hesp, Lars Sandved-Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, et al. 2021. “From Generative Models to Generative Passages: A Computational Approach to (Neuro)Phenomenology.” PsyArXiv. <a href="https://doi.org/10.31234/osf.io/k9pbn">https://doi.org/10.31234/osf.io/k9pbn</a>.</li>
+<li>Tegmark, Max. 2012. “How Unitary Cosmology Generalizes Thermodynamics and Solves the Inflationary Entropy Problem.” Physical Review D 85 (12): 123517. <a href="https://doi.org/10.1103/PhysRevD.85.123517">https://doi.org/10.1103/PhysRevD.85.123517</a>.</li>
+</ul>
 
             ]]>
         </content>
@@ -82,7 +84,7 @@ Tegmark, Max. 2012. “How Unitary Cosmology Generalizes Thermodynamics and Solv
         <id>https://kairos-research.org/clothes-of-the-empire/</id>
             <category term="Articles"/>
 
-        <updated>2022-10-29T14:01:50+01:00</updated>
+        <updated>2022-10-29T14:03:32+01:00</updated>
             <summary>
                 <![CDATA[
                     Ideology is an extremely polysemic term, which does not entail more in itself than the existence of some system of belief, values or discourse that is somehow mobilized in the political field. It is sometimes used in debates as a derogatory term, to contrast “ideology”&hellip;
@@ -162,30 +164,32 @@ Tegmark, Max. 2012. “How Unitary Cosmology Generalizes Thermodynamics and Solv
 <p>This account suggests that another, deeper kind of power can emerge when social norms are not integrated in concrete experience but in an abstracted and acontextual sense of self-identity. This process, which I coin as “identity capture”, enables an indirect although powerful and intimate form of government where elites define and enforce specific social identities embedding strong normative expectations. The modern European era has seen the development of an array of mechanisms falling under this umbrella, especially under the guise of nationalism. </p>
 <p>Deference politics enables a specific form of identity capture, where elites affect support for civil rights movements while forcing them to operate in elite rooms where they cannot accurately stand for the interests of their basis. To build an horizontal, collective understanding of our world despite the pressure of elite capture, we need to build rooms where the common ground enables the expression of anyone and facilitates collective organization. We can find models in organizations and movements that resisted the power relations inherent to the modern order : Black radicals and modern decolonials (as Táíwò underlies), but also anarchists, pre-modern European communalism, and indigenous resistance to colonization (Shoatz 2017).</p>
 <h2 id="bibliography">Bibliography</h2>
-<p>Bolis, Dimitris, and Leonhard Schilbach. 2018. “Observing and Participating in Social Interactions: Action Perception and Action Control across the Autistic Spectrum.” Developmental Cognitive Neuroscience, Autism Spectrum Condition – understanding sensory and social features, 29 (January): 168–75. <a href="https://doi.org/10.1016/j.dcn.2017.01.009">https://doi.org/10.1016/j.dcn.2017.01.009</a>.
-Clark, Andy. 2013. “Whatever next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” Behavioral and Brain Sciences 36 (3): 181–204. <a href="https://doi.org/10.1017/S0140525X12000477">https://doi.org/10.1017/S0140525X12000477</a>.
-———. 2019. Perception As Controlled Hallucination. <a href="https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination">https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination</a>.
-———. 2020. “Beyond Desire? Agency, Choice, and the Predictive Mind.” Australasian Journal of Philosophy 98 (1): 1–15. <a href="https://doi.org/10.1080/00048402.2019.1602661">https://doi.org/10.1080/00048402.2019.1602661</a>.
-CrimethInc Ex-Workers. 2019. “1919: When the Bolsheviks Turned on the Workers : Looking Back on the Putilov and Astrakhan Strikes, One Hundred Years Later.” CrimethInc. March 12, 2019. <a href="https://crimethinc.com/2019/03/12/when-the-bolsheviks-turned-on-the-workers-looking-back-on-the-putilov-and-astrakhan-strikes-one-hundred-years-later">https://crimethinc.com/2019/03/12/when-the-bolsheviks-turned-on-the-workers-looking-back-on-the-putilov-and-astrakhan-strikes-one-hundred-years-later</a>.
-“Emotional Labor.” 2022. In Wikipedia. <a href="https://en.wikipedia.org/w/index.php?title=Emotional_labor&amp;oldid=1083794443">https://en.wikipedia.org/w/index.php?title=Emotional_labor&amp;oldid=1083794443</a>.
-Foucault, Michel. 2011. Surveiller et punir. InteLex Corporation.
-Gelderloos, Peter. 2007. How Nonviolence Protects the State. South End Press Cambridge.
-Hipólito, Inês, Manuel Baltieri, Karl Friston, and Maxwell James Ramstead. 2021. “Embodied Skillful Performance: Where the Action Is.” Synthese, January. <a href="https://doi.org/10.1007/s11229-020-02986-5">https://doi.org/10.1007/s11229-020-02986-5</a>.
-Malešević, Siniša. 2013. Nation-States and Nationalisms: Organization, Ideology and Solidarity. Polity.
-Mitchell, Timothy. 2013. Carbon Democracy: Political Power in the Age of Oil. Verso Books.
-Nave, Kathryn, George Deane, Mark Miller, and Andy Clark. 2020. “Wilding the Predictive Brain.” WIREs Cognitive Science 11 (6): e1542. <a href="https://doi.org/10.1002/wcs.1542">https://doi.org/10.1002/wcs.1542</a>.
-Parr, Thomas, Giovanni Pezzulo, and Karl Friston. 2022. Active Inference: The Free Energy Principle in Mind, Brain, and Behavior. Cambridge, MA, USA: MIT Press.
-Ramstead, Maxwell James, Casper Hesp, Lars Sandved-Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, et al. 2021. “From Generative Models to Generative Passages: A Computational Approach to (Neuro)Phenomenology.” PsyArXiv. <a href="https://doi.org/10.31234/osf.io/k9pbn">https://doi.org/10.31234/osf.io/k9pbn</a>.
-Scott, James C. 2010. “The Trouble with the View from Above.” Cato Unbound, September 8, 2010. <a href="https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above">https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above</a>.
-———. 2020. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. Yale University Press.
-Shoatz, Russell Maroon. 2017. “The Dragon and the Hydra: A Historical Study of Organizational Methods.” Libcom.Org, September 20, 2017. <a href="https://libcom.org/article/dragon-and-hydra-historical-study-organizational-methods">https://libcom.org/article/dragon-and-hydra-historical-study-organizational-methods</a>.
-Smith, Barbara. 2020. “I Helped Coin the Term ‘Identity Politics’. I’m Endorsing Bernie Sanders.” The Guardian, February 10, 2020, sec. Opinion. <a href="https://www.theguardian.com/commentisfree/2020/feb/10/identity-politics-bernie-sanders-endorsement">https://www.theguardian.com/commentisfree/2020/feb/10/identity-politics-bernie-sanders-endorsement</a>.
-Swann Jr., William B., Jolanda Jetten, Ángel Gómez, Harvey Whitehouse, and Brock Bastian. 2012. “When Group Membership Gets Personal: A Theory of Identity Fusion.” Psychological Review 119 (3): 441–56. <a href="https://doi.org/10.1037/a0028589">https://doi.org/10.1037/a0028589</a>.
-Táíwò, Olúfẹ́mi. 2021. “Being-in-the-Room Privilege: Elite Capture and Epistemic Deference.” The Philosopher 1923. November 20, 2021. <a href="https://www.thephilosopher1923.org/post/being-in-the-room-privilege-elite-capture-and-epistemic-deference">https://www.thephilosopher1923.org/post/being-in-the-room-privilege-elite-capture-and-epistemic-deference</a>.
-Táíwò, Olúfẹ́mi O. 2018. “The Empire Has No Clothes.” Disputatio. <a href="https://doi.org/10.2478/disp-2018-0007">https://doi.org/10.2478/disp-2018-0007</a>.
-———. 2022. Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else). Haymarket Books.
-Veissière, Samuel P. L., Axel Constant, Maxwell James Ramstead, Karl Friston, and Laurence J. Kirmayer. 2020. “Thinking through Other Minds: A Variational Approach to Cognition and Culture.” Behavioral and Brain Sciences 43. <a href="https://doi.org/10.1017/S0140525X19001213">https://doi.org/10.1017/S0140525X19001213</a>.
-Williams, Jakobi. 2013. From the Bullet to the Ballot: The Illinois Chapter of the Black Panther Party and Racial Coalition Politics in Chicago. University of North Carolina Press. <a href="https://www.jstor.org/stable/10.5149/9781469608167_williams">https://www.jstor.org/stable/10.5149/9781469608167_williams</a>.</p>
+<ul>
+<li>Bolis, Dimitris, and Leonhard Schilbach. 2018. “Observing and Participating in Social Interactions: Action Perception and Action Control across the Autistic Spectrum.” Developmental Cognitive Neuroscience, Autism Spectrum Condition – understanding sensory and social features, 29 (January): 168–75. <a href="https://doi.org/10.1016/j.dcn.2017.01.009">https://doi.org/10.1016/j.dcn.2017.01.009</a>.</li>
+<li>Clark, Andy. 2013. “Whatever next? Predictive Brains, Situated Agents, and the Future of Cognitive Science.” Behavioral and Brain Sciences 36 (3): 181–204. <a href="https://doi.org/10.1017/S0140525X12000477">https://doi.org/10.1017/S0140525X12000477</a>.</li>
+<li>———. 2019. Perception As Controlled Hallucination. <a href="https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination">https://www.edge.org/conversation/andy_clark-perception-as-controlled-hallucination</a>.</li>
+<li>———. 2020. “Beyond Desire? Agency, Choice, and the Predictive Mind.” Australasian Journal of Philosophy 98 (1): 1–15. <a href="https://doi.org/10.1080/00048402.2019.1602661">https://doi.org/10.1080/00048402.2019.1602661</a>.</li>
+<li>CrimethInc Ex-Workers. 2019. “1919: When the Bolsheviks Turned on the Workers : Looking Back on the Putilov and Astrakhan Strikes, One Hundred Years Later.” CrimethInc. March 12, 2019. <a href="https://crimethinc.com/2019/03/12/when-the-bolsheviks-turned-on-the-workers-looking-back-on-the-putilov-and-astrakhan-strikes-one-hundred-years-later">https://crimethinc.com/2019/03/12/when-the-bolsheviks-turned-on-the-workers-looking-back-on-the-putilov-and-astrakhan-strikes-one-hundred-years-later</a>.</li>
+<li>“Emotional Labor.” 2022. In Wikipedia. <a href="https://en.wikipedia.org/w/index.php?title=Emotional_labor&amp;oldid=1083794443">https://en.wikipedia.org/w/index.php?title=Emotional_labor&amp;oldid=1083794443</a>.</li>
+<li>Foucault, Michel. 2011. Surveiller et punir. InteLex Corporation.</li>
+<li>Gelderloos, Peter. 2007. How Nonviolence Protects the State. South End Press Cambridge.</li>
+<li>Hipólito, Inês, Manuel Baltieri, Karl Friston, and Maxwell James Ramstead. 2021. “Embodied Skillful Performance: Where the Action Is.” Synthese, January. <a href="https://doi.org/10.1007/s11229-020-02986-5">https://doi.org/10.1007/s11229-020-02986-5</a>.</li>
+<li>Malešević, Siniša. 2013. Nation-States and Nationalisms: Organization, Ideology and Solidarity. Polity.</li>
+<li>Mitchell, Timothy. 2013. Carbon Democracy: Political Power in the Age of Oil. Verso Books.</li>
+<li>Nave, Kathryn, George Deane, Mark Miller, and Andy Clark. 2020. “Wilding the Predictive Brain.” WIREs Cognitive Science 11 (6): e1542. <a href="https://doi.org/10.1002/wcs.1542">https://doi.org/10.1002/wcs.1542</a>.</li>
+<li>Parr, Thomas, Giovanni Pezzulo, and Karl Friston. 2022. Active Inference: The Free Energy Principle in Mind, Brain, and Behavior. Cambridge, MA, USA: MIT Press.</li>
+<li>Ramstead, Maxwell James, Casper Hesp, Lars Sandved-Smith, Jonas Mago, Michael Lifshitz, Giuseppe Pagnoni, Ryan Smith, et al. 2021. “From Generative Models to Generative Passages: A Computational Approach to (Neuro)Phenomenology.” PsyArXiv. <a href="https://doi.org/10.31234/osf.io/k9pbn">https://doi.org/10.31234/osf.io/k9pbn</a>.</li>
+<li>Scott, James C. 2010. “The Trouble with the View from Above.” Cato Unbound, September 8, 2010. <a href="https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above">https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above</a>.</li>
+<li>———. 2020. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. Yale University Press.</li>
+<li>Shoatz, Russell Maroon. 2017. “The Dragon and the Hydra: A Historical Study of Organizational Methods.” Libcom.Org, September 20, 2017. <a href="https://libcom.org/article/dragon-and-hydra-historical-study-organizational-methods">https://libcom.org/article/dragon-and-hydra-historical-study-organizational-methods</a>.</li>
+<li>Smith, Barbara. 2020. “I Helped Coin the Term ‘Identity Politics’. I’m Endorsing Bernie Sanders.” The Guardian, February 10, 2020, sec. Opinion. <a href="https://www.theguardian.com/commentisfree/2020/feb/10/identity-politics-bernie-sanders-endorsement">https://www.theguardian.com/commentisfree/2020/feb/10/identity-politics-bernie-sanders-endorsement</a>.</li>
+<li>Swann Jr., William B., Jolanda Jetten, Ángel Gómez, Harvey Whitehouse, and Brock Bastian. 2012. “When Group Membership Gets Personal: A Theory of Identity Fusion.” Psychological Review 119 (3): 441–56. <a href="https://doi.org/10.1037/a0028589">https://doi.org/10.1037/a0028589</a>.</li>
+<li>Táíwò, Olúfẹ́mi. 2021. “Being-in-the-Room Privilege: Elite Capture and Epistemic Deference.” The Philosopher 1923. November 20, 2021. <a href="https://www.thephilosopher1923.org/post/being-in-the-room-privilege-elite-capture-and-epistemic-deference">https://www.thephilosopher1923.org/post/being-in-the-room-privilege-elite-capture-and-epistemic-deference</a>.</li>
+<li>Táíwò, Olúfẹ́mi O. 2018. “The Empire Has No Clothes.” Disputatio. <a href="https://doi.org/10.2478/disp-2018-0007">https://doi.org/10.2478/disp-2018-0007</a>.</li>
+<li>———. 2022. Elite Capture: How the Powerful Took Over Identity Politics (And Everything Else). Haymarket Books.</li>
+<li>Veissière, Samuel P. L., Axel Constant, Maxwell James Ramstead, Karl Friston, and Laurence J. Kirmayer. 2020. “Thinking through Other Minds: A Variational Approach to Cognition and Culture.” Behavioral and Brain Sciences 43. <a href="https://doi.org/10.1017/S0140525X19001213">https://doi.org/10.1017/S0140525X19001213</a>.</li>
+<li>Williams, Jakobi. 2013. From the Bullet to the Ballot: The Illinois Chapter of the Black Panther Party and Racial Coalition Politics in Chicago. University of North Carolina Press. <a href="https://www.jstor.org/stable/10.5149/9781469608167_williams">https://www.jstor.org/stable/10.5149/9781469608167_williams</a>.</li>
+</ul>
 
             ]]>
         </content>
