@@ -3,7 +3,7 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2023-09-04T12:40:04+01:00</updated>
+    <updated>2023-09-18T17:39:55+02:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://kairos-research.org/on-participatory-realism/</id>
             <category term="Articles"/>
 
-        <updated>2022-10-29T14:05:53+01:00</updated>
+        <updated>2022-10-29T15:05:53+02:00</updated>
             <summary>
                 <![CDATA[
                     Our views of the relation between science and the natural world tend to gravitate between two defining positions : either science offers us a true (although perhaps limited) representation of physical reality, or our representations of the world (although perhaps useful) simply lack the properties&hellip;
@@ -84,7 +84,7 @@
         <id>https://kairos-research.org/clothes-of-the-empire/</id>
             <category term="Articles"/>
 
-        <updated>2022-10-29T14:03:32+01:00</updated>
+        <updated>2022-10-29T15:03:32+02:00</updated>
             <summary>
                 <![CDATA[
                     Ideology is an extremely polysemic term, which does not entail more in itself than the existence of some system of belief, values or discourse that is somehow mobilized in the political field. It is sometimes used in debates as a derogatory term, to contrast “ideology”&hellip;
@@ -203,7 +203,7 @@
         <id>https://kairos-research.org/twitch/</id>
             <category term="Activities"/>
 
-        <updated>2021-06-06T14:40:21+01:00</updated>
+        <updated>2021-06-06T15:40:21+02:00</updated>
             <summary>
                 <![CDATA[
                     Contemporary research is mostly conducted in closed laboratories and seminars, and its product is broadcasted in specialist-only for-profit journals. No mechanism exist to meaningfully relate research to important social issues, as academic fame is indexed on article productivity and mass media tends to echo a&hellip;
@@ -227,7 +227,7 @@
         <id>https://kairos-research.org/ergodic-design/</id>
             <category term="Activities"/>
 
-        <updated>2021-06-05T18:46:14+01:00</updated>
+        <updated>2021-06-05T19:46:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Like any living system, the continued existence of human societies relies on their ability to build and enact adaptive understanding on how to navigate fluctuating ecological context.This happens through a process of cultural evolution by which humans collectives create and enact appropriate ways to navigate&hellip;
@@ -251,7 +251,7 @@
         <id>https://kairos-research.org/kairos-journal/</id>
             <category term="Activities"/>
 
-        <updated>2021-06-05T18:45:37+01:00</updated>
+        <updated>2021-06-05T19:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                     Academic publications are the basic tool for the development of scientific knowledge, due to their accent on technical precision and explicit situation within well-defined fields of study. However, this technicality itself empedes the transdisciplinary integration of our understanding of complex issues and the development of&hellip;
@@ -275,7 +275,7 @@
         <id>https://kairos-research.org/cultural-ecology/</id>
             <category term="Projects"/>
 
-        <updated>2021-06-06T05:59:03+01:00</updated>
+        <updated>2021-06-06T06:59:03+02:00</updated>
             <summary>
                 <![CDATA[
                     Human societies are permeated by cultural structures which span all aspects of human life, from the way we think to their familial and political organisation. Those structures are not pre-given, but are continuously recreated along with the environment and the social relations in which they&hellip;
@@ -299,7 +299,7 @@
         <id>https://kairos-research.org/complexity-and-politics/</id>
             <category term="Projects"/>
 
-        <updated>2021-06-05T18:40:31+01:00</updated>
+        <updated>2021-06-05T19:40:31+02:00</updated>
             <summary>
                 <![CDATA[
                     Human societies are shaped by the way humans learn from each other, allowing them to collectively adapt to complex or harsh environmental niches by building ecologically appropriate norms and skills. Those adaptations develop within socio-economic networks and institutions in which they are effectively embedded, making&hellip;
@@ -323,7 +323,7 @@
         <id>https://kairos-research.org/epistemology-and-enactivism/</id>
             <category term="Projects"/>
 
-        <updated>2021-06-05T18:39:46+01:00</updated>
+        <updated>2021-06-05T19:39:46+02:00</updated>
             <summary>
                 <![CDATA[
                     Instead of working together to understand the world, philosophers often discuss issues that are in no way integrated with relevant research, while scientists work on the premise of deeply flawed philosophical assumptions. This separation is driven by the development of highly technical, domain-specific languages which&hellip;
@@ -347,7 +347,7 @@
         <id>https://kairos-research.org/dynamics-of-life-and-consciousness/</id>
             <category term="Projects"/>
 
-        <updated>2021-06-05T18:39:14+01:00</updated>
+        <updated>2021-06-05T19:39:14+02:00</updated>
             <summary>
                 <![CDATA[
                     Complex structures like bacteria or human societies exist far from equilibrium, in the sense that their continued existence relies on canalysing energy gradients into constructing themselves. Studying the way autonomous systems work to harness change is consequetly a guiding theme of the life sciences. Yet,&hellip;
@@ -371,10 +371,10 @@
         <id>https://kairos-research.org/showcase/</id>
             <category term="Pages"/>
 
-        <updated>2023-09-04T12:40:04+01:00</updated>
+        <updated>2023-09-18T17:39:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work : -2023, August 19 : “Solving the paradox of non-existence in ontology, a naturalist social ontology”, Research conference, in the Social Ontology&hellip;
+                    As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work : Our publications Guénin–Carlut, Avel, and Mahault Albarracin. 2023. “On Embedded Normativity - An Active Inference Account of Agency beyond Flesh.” OSF&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -399,12 +399,13 @@ on Active Inference</a></li>
 <li>Guénin–Carlut, A. (2020). Beyond State—Drafting a prospective anthropology. <a href="https://doi.org/10.17605/OSF.IO/EHQJS">https://doi.org/10.17605/OSF.IO/EHQJS</a></li>
 </ul>
 <h2 id="our-research-talks">Our research talks</h2>
-<p>-<strong>2023, August 19 :</strong> “Solving the paradox of non-existence in ontology, a naturalist social ontology”, Research conference, in the <a href="https://isosonline.org/Social-Ontology-2023">Social Ontology 2023</a> conference, by Alexis ROZANSKI</p>
 <ul>
-<li><strong>2023 August 22 :</strong> “On Embedded Normativity - “, Research conference, in the <a href="https://coda.io/@active-inference-institute/3rd-applied-active-inference-symposium/program-4">3rd Applied Active Snference Symposium</a>, by Avel GUÉNIN–CARLUT<ul>
+<li><strong>2023 September 13 :</strong> On Embedded Normativity - An Active Inference account of agency beyond flesh”, Research conference, at the <a href="https://iwaiworkshop.github.io/">4th International Workshop on Active Inference</a>, by Avel GUÉNIN–CARLUT and Mahault ALBARRACIN</li>
+<li><strong>2023 August 22 :</strong> “On Embedded Normativity”, Research conference, in the <a href="https://coda.io/@active-inference-institute/3rd-applied-active-inference-symposium/program-4">3rd Applied Active Snference Symposium</a>, by Avel GUÉNIN–CARLUT<ul>
 <li><a href="https://youtu.be/vqZG0UNseaw">Conference</a></li>
 </ul>
 </li>
+<li><strong>2023, August 19 :</strong> “Solving the paradox of non-existence in ontology, a naturalist social ontology”, Research conference, in the <a href="https://isosonline.org/Social-Ontology-2023">Social Ontology 2023</a> conference, by Alexis ROZANSKI</li>
 <li><strong>2023 July 28 :</strong> “The Cognitive Archeology of Sociocultural Lifeforms”, Poster presentation, in the <a href="https://2023.alife.org/">ALife 2023</a> conference, by Avel GUÉNIN–CARLUT<ul>
 <li><a href="https://youtu.be/tXTj5_hkRPQ">Extended poster presentation</a></li>
 </ul>
