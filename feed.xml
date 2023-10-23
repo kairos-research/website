@@ -3,12 +3,69 @@
     <title>Kairos Research</title>
     <link href="https://kairos-research.org/feed.xml" rel="self" />
     <link href="https://kairos-research.org" />
-    <updated>2023-10-19T12:58:31+02:00</updated>
+    <updated>2023-10-23T22:01:38+02:00</updated>
     <author>
         <name>Kairos Collective</name>
     </author>
     <id>https://kairos-research.org</id>
 
+    <entry>
+        <title>Active Inference in the Social Sciences</title>
+        <author>
+            <name>Kairos Collective</name>
+        </author>
+        <link href="https://kairos-research.org/active-inference-social-sciences/"/>
+        <id>https://kairos-research.org/active-inference-social-sciences/</id>
+            <category term="Activities"/>
+
+        <updated>2023-10-23T22:01:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Social sciences are shaped by a permanent debate about the relative role of structure and agency in producing human behavior. On one hand, it is undeniable that social roles, cultural norms, linguistic categories and institutions play some role in producing the patterns of social activity.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Social sciences are shaped by a permanent debate about the relative role of structure and agency in producing human behavior. On one hand, it is undeniable that social roles, cultural norms, linguistic categories and institutions play <em>some</em> role in producing the patterns of social activity. On the other hand, any given individual has a <em>de facto</em> autonomy in the way they navigate their own social context, as is made evident by the diversity of beliefs and behavior in any given society. Therefore, for any theory accentuating the role of social structure, we may highlight individual agency in the way humans navigate this structure; and for any theory accentuating the role of human agency, we may highlight how social structure constrain and construct the very motivations of each individual agent. In consequence, this debate cannot possibly end - unless we can dissolve the apparent dichotomy of structure and agency, and identify a way to describe both as two complementary description of the same process. </p>
+<p>Active Inference is a formal framework which describes cognitive agency as the integration and enaction of expectations over one’s own sensorimotor flow. At its core, it is an extension of the Free Energy Principle which demonstrates a fundamental duality between the “world-model” embodied and enacted by living systems / cognitive agents and the structural identity of their physical organization. It provides a straightforward account of cognitive agency as the navigation of the agent’s ecological context, experienced as a landscape of <em>affordances</em> (or perceived possibilities for action). In this model, the norms and values guiding an agent’s behavior are embedded in the structure of their basic experience, in the form of the content and the valence of the cognitive landscape they enact. The process of enculturation can then simply be described as the process of inferring and reconstruction a landscape of sociocultural affordances. Then, both social structure and individual agency can then be described in an integrated manner, at the level of the experience by individual agents of a shared social context. </p>
+<p>Since 2023, we are organizing a course on <a href="https://coda.io/d/Active-Inference-for-the-Social-Sciences-AII-2023_dVVFg3pdihg/Course-Home_sumEh#_lu_fo">Active Inference for the Social Sciences</a>in collaboration with the <a href="activeinference.org/">Active Inference Institute</a>. This course is designed for learners of all backgrounds who wish to study the integrated nature of social structure and individual agency. The goal of the course is to transmit a core conceptual model of the multifold relationship between of human experience and social constraints/cultural meaning, with the hope of identifying avenues for further research bridging formal, social, and cognitive science and encouraging their exploration. Please visit the <a href="https://coda.io/d/Active-Inference-for-the-Social-Sciences-AII-2023_dVVFg3pdihg/Course-Home_sumEh#_lu_fo">course website</a> for more details, on look the <a href="https://youtube.com/playlist?list=PLNm0u2n1IwdoE8kkRwf1B6o4qhrbVcyFw&amp;si=-KltL4kdSgUcqiOB">playlist of our past sessions</a>.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Metascience and Methodology</title>
+        <author>
+            <name>Kairos Collective</name>
+        </author>
+        <link href="https://kairos-research.org/metascience-and-methodology/"/>
+        <id>https://kairos-research.org/metascience-and-methodology/</id>
+            <category term="Projects"/>
+
+        <updated>2023-10-23T22:01:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    In 2005, John Ioannidis published an earth-shaking article titled “Why Most Published Research Findings Are False”. It outlined the fact that most empirical findings in science failed to be replicated, meaning that they are likely the product of experimental settings or statistical fluctuations and do&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In 2005, John Ioannidis published an earth-shaking article titled “Why Most Published Research Findings Are False”. It outlined the fact that most empirical findings in science failed to be replicated, meaning that they are likely the product of experimental settings or statistical fluctuations and do not correspond to any real effect. Ioannidis proposed that this fact was the result of norms and institutions which reward the publication of positive results - even when the empirical methods to establish those results are insufficient - while impeding the publications of negative results. Indeed, papers typically receive attention by peers when they claim the existence of novel interesting effects, and academies typically prefer to employ and promote researchers who receive the most attention by peers. In other words, empirical scientists are <em>de facto</em> rewarded for running many experiments and only publishing about it when their results are positive. This elicited a vast wave of worry about the validity of empirical science, and opened the way for more research about the way that science is conducted: metascience. Metascience employs research methods, typically borrowed from the empirical sciences, to scrutinise how research is conducted. It generally seeks to elevate the quality of scientific inquiry by pinpointing areas where improvements can be made.</p>
+<p>For example, metascience enabled a push for pre-registering the methods and expected results of an empirical study before it is conducted. This enforces a higher level of visibility for negative results, and notably makes p-hacking - a publishing strategy where scientists run many statistical tests and publish about whichever positive they can get - more difficult. However, statistical rigor can only ensure the internal coherence of the specific tests which we choose to apply on the available data or experimental setup. It cannot help us judge the adequation of specific methodologies to answer specific questions, and much less the relevance of the questions we choose to ask. For exemple, the field of behavioural economics has been characterized since its inception by the construction of elaborate setups demonstrating deviation from economic rationality in human behaviour. This is without ever asking whether economic rationality was a reasonable model to begin with, which other model would be more adequate to explain human behaviour, or even what was the role of the setup itself in producing the observed behaviour. A field which relies on poorly conceived tests of ill-defined hypothesis does not need bad statistical analysis to produce a null or even negative contribution to the edifice of scientific knowledge.</p>
+<p>Kairos aims to cultivate a critical and reflexive relationship to scientific methodology, and to participate in the construction of more efficient and coherent methodologies to specify and test scientific hypothesis. We notably draw on epistemology and formal modelling to better understand how specific experimental setups produce data, as well as how scientific communities understand the relation of these data to their hypothesis. We have disscussed in depth the role of experimental methodology in cognitive science, given the difficulties of relating behavioural data to specific mechanistic models of t he mind. More generally, we seek to understand how the contextuality of natural processes constrains (and enables the construction of) human knowledge. Indeed, we recognise the importance of the context-specific semiotics developed by complex natural systems, such as minds, organisms, and ecosystems. The exercise of scientific representation necessitates to capture the “subjective” semiotics developed by natural systems through the “objective” semiotics developed by science. As the very attempt to frame acontextual “laws of nature” entailing the evolution of natural systems erases the contextuality of their behaviour, we need to find strategies for scientific modeling which conserve an adequate relation between the semiotics of the target system and those of the model.</p>
+<h3 id="related-kairos-articles">Related Kairos articles</h3>
+<ul>
+<li><a href="https://kairos-research.org/on-participatory-realism/">On participatory realism</a></li>
+</ul>
+<h3 id="our-publications">Our publications</h3>
+<ul>
+<li>Friedman, Daniel et al. 2022. ‘An Active Inference Ontology for Decentralized Science: From Situated Sensemaking to the Epistemic Commons’. <a href="https://zenodo.org/record/6320575">https://zenodo.org/record/6320575</a> (March 7, 2022).</li>
+<li>Guénin–Carlut, Avel. 2020. “Cognition in Eco, Cognition in Vitro - Measurement and Explanation in Cognitive Science,” March. <a href="https://doi.org/10.17605/OSF.IO/ERCZ6">https://doi.org/10.17605/OSF.IO/ERCZ6</a>.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>On participatory realism</title>
         <author>
@@ -195,49 +252,25 @@
         </content>
     </entry>
     <entry>
-        <title>Twitch</title>
+        <title>Design for ecosystems of intelligence</title>
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/twitch/"/>
-        <id>https://kairos-research.org/twitch/</id>
+        <link href="https://kairos-research.org/design-ecosystems-intelligence/"/>
+        <id>https://kairos-research.org/design-ecosystems-intelligence/</id>
             <category term="Activities"/>
 
-        <updated>2021-06-06T15:40:21+02:00</updated>
+        <updated>2023-10-23T22:01:07+02:00</updated>
             <summary>
                 <![CDATA[
-                    Contemporary research is mostly conducted in closed laboratories and seminars, and its product is broadcasted in specialist-only for-profit journals. No mechanism exist to meaningfully relate research to important social issues, as academic fame is indexed on article productivity and mass media tends to echo a&hellip;
+                    The increasing scale of human activity has led to a dramatic impact on the ecological condition of life on Earth, mostly notably (but not exclusively) through the increase in average temperature driven by the massive burning of fossil fuel and deforestation. This led some researcher&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Contemporary research is mostly conducted in closed laboratories and seminars, and its product is broadcasted in specialist-only for-profit journals. No mechanism exist to meaningfully relate research to important social issues, as academic fame is indexed on article productivity and mass media tends to echo a sensationalised version of scientific results. Consequently, common citizen have no visibility on the functioning on science, and feel no responsability to take scientific knowledge into account.</p>
-<p>We recognise that science can only work as a guide for social life if people can developp the necessary tools to decrypt the meaning of scientific results. Although vulgarisation does help with the diffusion of scientific results, active participation is necessary to build engagement and enable deeper knowledge integration. The transmission of science therefore necessitates not only explaining in accessible terms, but also building spaces where open dialogue on philosophical and scientific issues is possible and encouraged.</p>
-<p>In order to build such a space, Kairos animates a Twitch channel aiming to engage a non-expert audience with research on dynamical systems and socio-cultural evolution. We present books and articles we work on as a material for discussion, while picking each week’s topic based on audience interests. We hope to provide people an opportunity to learn more about what scientific results they think are relevant to guide themselves, and discuss what is their concrete ethical meaning.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ergodic Design</title>
-        <author>
-            <name>Kairos Collective</name>
-        </author>
-        <link href="https://kairos-research.org/ergodic-design/"/>
-        <id>https://kairos-research.org/ergodic-design/</id>
-            <category term="Activities"/>
-
-        <updated>2021-06-05T19:46:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Like any living system, the continued existence of human societies relies on their ability to build and enact adaptive understanding on how to navigate fluctuating ecological context.This happens through a process of cultural evolution by which humans collectives create and enact appropriate ways to navigate&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Like any living system, the continued existence of human societies relies on their ability to build and enact adaptive understanding on how to navigate fluctuating ecological context.This happens through a process of cultural evolution by which humans collectives create and enact appropriate ways to navigate their world. Social structure and communication media crucially constrains its effective occurence, and therefore our ability to create a cultural niche embodying information about our world.</p>
-<p>Today, the increasingly manifest feedback of human activities on their ecology suggests the imminence of an era of drastic environmental complexity. As pressure from social polarisation and climate change build up, the socio-political and ecological reality derives away from the relatively stable niche that has forged modern institutions. The possibility of systemic failure becomes more manifest every day, compelling us to rebuild our ability for collective action.</p>
-<p>Ergodic Design studies how living systems create stable niches from complex environments, and seeks to derives practical ways for humans to navigate chaos. We build tools to help visualise, understand and communicate on complex systemic dependancies, allowing collectives to find appropriate ways to engage with the world. Our work integrates approaches from the Active Inference Framework to applied collective intelligence, bridging fundamental research to direct action.</p>
+                <p>The increasing scale of human activity has led to a dramatic impact on the ecological condition of life on Earth, mostly notably (but not exclusively) through the increase in average temperature driven by the massive burning of fossil fuel and deforestation. This led some researcher to declare a new geological era named “Anthropocene” (or “Capitalocene”) to account for the feedback role that human activity plays on the environment. Despite the increasingly obvious and massive scales of destruction entailed by the current extractive approach to “nature”, no coordinated action has yet been taken to shift patterns of human activity toward sustainability. One can blame a first-mover problem, where the first States to take serious action would expectedly lose momentum in their economic and geostrategic competition against other States. One can highlight the core role given to private capital accumulation in our economic organization, which constrains most economic activity to maximize return on investment while enabling the capture of States by the winners of this system. In any case, one must admit that the current situation is the product of institutional lock-ins preventing human societies from necessary adaptation in front of imminent change driven by their own activity, and that we must urgently overcome those lock-ins or face terrible consequences.</p>
+<p>We work on the articulation of core design principles for ecosystems of intelligence, understood here as collectives of agents sharing a common environment, and expected to organize adaptively to solve common problems. The core principle on which we organize our demarch is the fundamental duality between metabolism and cognition in biological systems. The manner in which an agent understands and navigates its world is, by construction, an extension of its struggle for existence. Therefore, its activity in the world will project a specific model of its own structural identity, or in other words of what it takes to keep it alive. An agent will “actively infer”, which is make happen, a world which verifies a collection of factors which (in its own understanding) make the agent what it is. For cultural agents such as humans, this world is a cultural landscape embedded in the material and social environment which it navigates and participates to construct. The question of how to organize collectives capable of adaptation in front of change therefore reduces to the design of a cultural and material environment which enables the development of a collective structural identity affording collection adaptation - strong enough to maintain its existence, supple enough to re-invent itself through time, and deep enough to be able to act on available information to do so adaptively.</p>
+<p>We want to develop a collection of tools for the collective intelligence in human societies, drawing the fully transdisciplinary perspective drafted above. Those tools may be relatively abstract conceptual discussion, say, on the factors that makes collectives’ organization fragile or adaptive based on cognitive and sociological research. They may be more concrete, actionable objects, such as operational charts for collective or techniques for integrating complex systems methodology in collective decisions. They may be addressed to embodied, self-organized human collectives, they may be addressed to institutional design of formal organization charts, and they may be addressed to designers of human-machine interfaces. The core thread which integrates our demarch is the scientific study of how ecosystems of intelligence “create their world”, and how to apply this study to the design of adaptive systems. We hope that this work accompany and catalyse intentional, transformative action in answer to the ongoing sociopolitical dynamics, including the nested crisis of climate change and political governance in the XXIth century.</p>
 
             ]]>
         </content>
@@ -251,141 +284,149 @@
         <id>https://kairos-research.org/kairos-journal/</id>
             <category term="Activities"/>
 
-        <updated>2021-06-05T19:45:37+02:00</updated>
+        <updated>2023-10-23T22:00:51+02:00</updated>
             <summary>
                 <![CDATA[
-                    Academic publications are the basic tool for the development of scientific knowledge, due to their accent on technical precision and explicit situation within well-defined fields of study. However, this technicality itself empedes the transdisciplinary integration of our understanding of complex issues and the development of&hellip;
+                    Contemporary research institutions find their roots in the cooptation of scholastic guilds by the Latin Church in the medieval era, giving rise to the first Universities. The interest of those institutions directly echoed the interests of elites at the time: law, theology, arts and (in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Academic publications are the basic tool for the development of scientific knowledge, due to their accent on technical precision and explicit situation within well-defined fields of study. However, this technicality itself empedes the transdisciplinary integration of our understanding of complex issues and the development of reflective insight concerning the meaning of any tool or result. This drives the deconnection of research from socially relevant questions, and bring us to passively follow socio-historical trajectories with no tool to evaluate the long term consequences of our decisions.</p>
-<p>Kairos participates in the construction of pragmatic insight about socio-historical dynamics by hosting a journal of scientific synthesis. Its mandate, complementary to this of academic journals, is to integrate knowledge about complex systems, socio-historical dynamics, and epistemology into understanding of the evolution of human societies. Although its thematics are wide by construction, the Kairos journal aims to build focus and reflectiveness through minimalism by design: it does not provide any information that is not necessary to leverage scientific research into a pragmatic understanding.</p>
-<p>The Kairos journal is run in a purely voluntary manner, and does not practice formal peer review. Rather than constituting an authoritative source, it seeks to create a dynamic of reflexive understanding beyond its formal output. Authors are encouraged to work with editors so as to identify what are the pragmatically relevant axis of their research, and readers are encouraged to leverage their insight into action or into more research. We aim to hereby catalyse the cultural evolution of new, hopefully better, ways to do research and integrate it into social life.</p>
+                <p>Contemporary research institutions find their roots in the cooptation of scholastic guilds by the Latin Church in the medieval era, giving rise to the first Universities. The interest of those institutions directly echoed the interests of elites at the time: law, theology, arts and (in a lesser extent) medicine were the basis of political legitimacy and organization in medieval Europe. From the early modern period onward, the European states which had adopted it shifted toward bureaucratic modes of legitimization and organization, as they became progressively hegemonic at the scale of humanity. This led to a shift of the Latin model of academia toward a distinctly “technoscientific” model of knowledge, but also to the overwhelming dominance of this model over the organization and legitimization of knowledge worldwide. Indeed, the goal of institutionalized knowledge in the modern era was not to legitimize power, a function which was increasingly outsourced to the very claim of “rational” or “scientific” organization. It was to assist the new bureaucratic States in the effective control of their territory and populations, through the construction of standardized models of reality in the like of modern physics.</p>
+<p>The organization of contemporary academia inherits from this history. It is organized around the definition of well-defined, almost insular fields of study, each equipped with its specific technical language, standard methodology, and research questions. This is explicit both in the organization of work, with research position being explicitly divided in disciplines (physics, sociology, philosophy…) and often in fields (experimental physics, sociology of media, exegesis of Kant’s writings…), and in the core institution of knowledge production - academic publications. Indeed, the journals which academic publications must go through to assist their author’s career are specific to research fields, and often to specific approaches within those fields. Therefore, to be coopted, an aspiring academic must learn to speak the technical language of a given field, and demonstrate this ability in most (if not all) of their academic writings. This system is good at producing systems of knowledge organized around standardized methods and tools, along with communities of experts which are capable of applying them in the most rigorous way. It is terrible, however, to synthesize those multiple insular systems of knowledge into pragmatic insight into the multiscale, multifaceted phenomenon underlying life and social organization.</p>
+<p>Kairos aims to bridge that gap by hosting and editing a journal of scientific synthesis, which aims to integrate knowledge about complex systems, socio-historical dynamics, and epistemology into a pragmatic understanding of our world. Although its thematics are wide by construction, the Kairos Journal aims to build focus and reflectiveness through minimalism by design: it does not provide any information that is not necessary to leverage scientific research into a pragmatic understanding. Its aim in doing so is to transmit knowledge in a maximally efficient manner, but also (and most importantly) to encourage a reflexive, critical relationship to scientific knowledge. We want ourselves and our readership to reflexively integrate our own understanding of social dynamics into our engagement with the world. This supposes the ability to adaptively enact and (re)construct simple heuristics to navigate complex patterns of dependencies in a context of high ambiguity. In other words, it entails thorough reflexiveness onto the most basic components of one’s knowledge, and a general disposition to critically revise them when needed.</p>
+<h2 id="organization--engagement">Organization &amp; Engagement</h2>
+<p>The Kairos Journal is run in a purely voluntary manner, and does not practice formal peer review. Indeed, authors which are invited to contribute are deemed good faith actors with sufficient knowledge to not necessitate the explicit validation of their ideas by other scholars. However, authors are encouraged to work with editors to follow the Journal’s ethos of clarity and pragmatic insight, and to identify the specific axis of research which serves best this ethos. Rather than constituting an authoritative source for scientific knowledge, the Kairos Journal seeks to create a dynamic of reflexive understanding of social systems which relates authors and readers in the mobilization of research for action or for the construction of further pragmatic insight. </p>
+<p>We encourage readers to send commentaries about published articles or voluntary contributions (either as an abstract or as a general theme the author wants to address), using the header “[Kairos Journal submission/commentary]” at the following address: <a href="mailto:&#x6b;&#x61;&#105;&#114;&#x6f;&#115;&#x63;&#108;&#x69;&#x6f;&#x64;&#121;&#x6e;&#x61;&#109;&#105;&#99;&#115;&#x40;&#100;&#105;&#x73;&#x72;&#x6f;&#111;&#116;&#x2e;&#x6f;&#114;&#103;">&#x6b;&#x61;&#105;&#114;&#x6f;&#115;&#x63;&#108;&#x69;&#x6f;&#x64;&#121;&#x6e;&#x61;&#109;&#105;&#99;&#115;&#x40;&#100;&#105;&#x73;&#x72;&#x6f;&#111;&#116;&#x2e;&#x6f;&#114;&#103;</a> All submissions will be reviewed by the Journal’s editorial committee, and published (with possible revisions asked) if and only if they fit the Journal’s editorial line. </p>
 
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Cultural ecology</title>
+        <title>Cultural ecology &amp; Cliodynamics</title>
         <author>
             <name>Kairos Collective</name>
         </author>
-        <link href="https://kairos-research.org/cultural-ecology/"/>
-        <id>https://kairos-research.org/cultural-ecology/</id>
+        <link href="https://kairos-research.org/cultural-ecology-cliodynamics/"/>
+        <id>https://kairos-research.org/cultural-ecology-cliodynamics/</id>
             <category term="Projects"/>
 
-        <updated>2021-06-06T06:59:03+02:00</updated>
+        <updated>2023-10-23T22:00:44+02:00</updated>
             <summary>
                 <![CDATA[
-                    Human societies are permeated by cultural structures which span all aspects of human life, from the way we think to their familial and political organisation. Those structures are not pre-given, but are continuously recreated along with the environment and the social relations in which they&hellip;
+                    Like any living system, human societies continuously re-construct themselves through their own activity. Humans integrate cultural expectations through their social interactions, but can only do so by recreating the meaning of their experience from their own viewpoint. This gives the opportunity for ambiguity in the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Human societies are permeated by cultural structures which span all aspects of human life, from the way we think to their familial and political organisation. Those structures are not pre-given, but are continuously recreated along with the environment and the social relations in which they are embedded. Understanding how human societies work therefore entails the study of how human culture change through time.</p>
-<p>One central aspect of this dynamic is that each cultural trait changes the landscape in which itself and other traits evolve. For exemple, the emergence of agriculture enabled the emergence of densely populated settlements and centralised political control, which consequently further the progress of agricultural subsistence. Just like living organism, cultural forms create the niche they evolve to fit in.</p>
-<p>We propose to study the stucture of human societies through the multi-scale patterns of coevolution shaping cultural forms. Cultural traits should in our view be understood through their participation in a cultural ecosystem of interrelated beliefs and practices. We work accordingly to integrate the long time perspective of deep history with the accent of cultural evolution on the causes for structural change.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Complexity and politics</title>
-        <author>
-            <name>Kairos Collective</name>
-        </author>
-        <link href="https://kairos-research.org/complexity-and-politics/"/>
-        <id>https://kairos-research.org/complexity-and-politics/</id>
-            <category term="Projects"/>
-
-        <updated>2021-06-05T19:40:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Human societies are shaped by the way humans learn from each other, allowing them to collectively adapt to complex or harsh environmental niches by building ecologically appropriate norms and skills. Those adaptations develop within socio-economic networks and institutions in which they are effectively embedded, making&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Human societies are shaped by the way humans learn from each other, allowing them to collectively adapt to complex or harsh environmental niches by building ecologically appropriate norms and skills. Those adaptations develop within socio-economic networks and institutions in which they are effectively embedded, making the possibility of collective adaptation contingent on the scale and structure of underlying coordination.</p>
-<p>Such coordination is difficult to build around political decisions in stratified urban societies, where steep concentration of power around central persons and institutions tends to catalyse polarisation around competing segments of the elite. Failure to integrate complex dynamical dependances between a society’s structure and its environment in turn result in periodic instability in complex societies, as is currently illustrated by human-driven climate change.</p>
-<p>We work to integrate knowledge about complex dynamics in political discourse and action, and effectively build the capacity for collective agency. We base our approach on two complementary axis : theoretical understand of how complex societies evolve through the long time of history, and practical insight on how to build cooperative networks &amp; institution able to integrate complex information about their environment.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Epistemology and enactivism</title>
-        <author>
-            <name>Kairos Collective</name>
-        </author>
-        <link href="https://kairos-research.org/epistemology-and-enactivism/"/>
-        <id>https://kairos-research.org/epistemology-and-enactivism/</id>
-            <category term="Projects"/>
-
-        <updated>2021-06-05T19:39:46+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Instead of working together to understand the world, philosophers often discuss issues that are in no way integrated with relevant research, while scientists work on the premise of deeply flawed philosophical assumptions. This separation is driven by the development of highly technical, domain-specific languages which&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Instead of working together to understand the world, philosophers often discuss issues that are in no way integrated with relevant research, while scientists work on the premise of deeply flawed philosophical assumptions. This separation is driven by the development of highly technical, domain-specific languages which academic institutions encourage. Yet, the process of investigating how the world works and the process of reflecting on the reach of our tools and the meaning of our results cannot be entirely decoupled.</p>
-<p>Historically, the recognition that all observable entities exist as elements of a single, causally integrated natural realm has driven the call for unifying research across academic disciplines. Although there is no definitive agreement on the concrete requirements of such a demarch, it can still work as a driving principle for researchers. For exemple, it is especially compelling that the philosophy of knowledge should be grounded on the social and cognitive sciences, and serve to guide the development of further knowledge.</p>
-<p>We propose to take the perspective of an agent struggling to enact meaning into a complex and impermanent reality as a central unifying framework in science and its philosophy. All living systems, including scientists and philosophers, must understand their world and act appropriately to maintain their structural identity. We recognise this process of “enaction” or “active inference” as central in driving biological, cognitive, and social dynamics from the level of cells to this of human societies, and work to expose its role at all possible scales.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dynamics of life and consciousness</title>
-        <author>
-            <name>Kairos Collective</name>
-        </author>
-        <link href="https://kairos-research.org/dynamics-of-life-and-consciousness/"/>
-        <id>https://kairos-research.org/dynamics-of-life-and-consciousness/</id>
-            <category term="Projects"/>
-
-        <updated>2021-06-05T19:39:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Complex structures like bacteria or human societies exist far from equilibrium, in the sense that their continued existence relies on canalysing energy gradients into constructing themselves. Studying the way autonomous systems work to harness change is consequetly a guiding theme of the life sciences. Yet,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Complex structures like bacteria or human societies exist far from equilibrium, in the sense that their continued existence relies on canalysing energy gradients into constructing themselves. Studying the way autonomous systems work to harness change is consequetly a guiding theme of the life sciences. Yet, our intuition of nature is often based on equilibrium assumptions, where systems react to perturbations rather than autonomously enact their own structure.</p>
-<p>We work to expose the dynamics of life and consciousness, and how those patterns of change underly the world we perceive. How organism harness resources to constantly building their own structure, how genetic mutations and selection underly the emergence of adapted phenotype, how agents infer the structure of their niche are archetypal exemples. All instantiate dissipative dynamics, where systems integrate information about the world by self-organising into their most stable states.</p>
-<p>Therefore, we consider that the mathematical study of self-organisation, the naturalist study of how life emerges, and the phenomenological study of what it means to be alive are deeply tied. We try to understand their relations by studying the complex multi-scale dynamics of self-construction, and synthetising existing approches to modelling the physics of life and consciousness such as homeostasis, autopoïesis, dissipative systems, autocatalytic sets, active inference, or the critical brain hypothesis.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Showcase</title>
-        <author>
-            <name>Kairos Collective</name>
-        </author>
-        <link href="https://kairos-research.org/showcase/"/>
-        <id>https://kairos-research.org/showcase/</id>
-            <category term="Pages"/>
-
-        <updated>2023-10-19T12:58:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                    As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work : Our publications Guénin–Carlut, Avel. 2023. “Strange Things, Statespace Representation, and Participatory Realism - Comment on ‘Path Integrals, Particular Kinds, and Strange&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>As a collective and as individuals, we participate in a broader process of scientific enquiries. Here is an overview of our academic work :</p>
-<h2 id="our-publications">Our publications</h2>
+                <p>Like any living system, human societies continuously re-construct themselves through their own activity. Humans integrate cultural expectations through their social interactions, but can only do so by recreating the meaning of their experience from their own viewpoint. This gives the opportunity for ambiguity in the relation between the patterns instantiated by social norms and their understanding by individual agents, and therefore for the creative evolution of norms, values and organization. In other words, social organization is maintained into existence because humans learn the landscapes of cultural expectations in which they are immersed, but since this learning is intrinsically subjective and reconstructive, the very same process also drives the continuous evolution of social organization. In the same way that biology centers on the organizational properties of living systems, the vision of historical dynamics we present here centers on the organizational properties of human societies - the cultural landscapes which humans collectively enact, and the social constraints they produce over collective patterns of behavior.</p>
+<p>But it prompts the question: how do cultural landscapes and social constraints affect individual behavior, and how can we describe their change through time? These questions are the central topic of our Cultural Ecology &amp; Cliodynamics research project. At its core, our approach is based in the cognitive science describing human engagement with material and cultural landscapes. We aim to articulate a broader framework accounting for sociocultural <em>autopoiesis</em> (the self-creation of human societies) based on the internalization and externalization of cultural expectations by individual humans. In doing so, we hope to understand the relation between the patterns of meaning projected by human societies and the cultural and material environment they construct. Our goal is ultimately to relate this framework to more classical (quantitative and qualitative) research on <em>longue durée</em> history and on the historical patterns of social dynamics to study the coevolution between cultural traits. In other words, we want to analyse how specific cultural traits or frames of reference constrains social activity, and indirectly the long term evolution of societies.</p>
+<p>Given this core demarch, the topics we take interest in are too various to be exhaustively listed here. What is the role of the material environment in cultural evolution, and in the development of core technology for early human ecology? What is the historical role of urbanization in political and economic organization? Was the role mediated by shared cultural norms embedded in the material niche of the city, by the organic development of social and economic organization, by political authority, or by all of the above? Is the process of urbanization the cradle of contemporary social hierarchies, or is it State stratification? Or patriarchy? If the answer changes across cultural contexts, why does it and how does that inform patterns of social evolution? What drives the relation between economical complexity and democracy across States? Can we model the assumptions of Modern Monetary Theory from the ground up, assuming only what we know about the mechanisms of human cognition? We believe that any student of the historical patterns of change in human societies may find an interest in engaging with us on these topics, and many others.</p>
+<h3 id="related-kairos-articles">Related Kairos articles</h3>
 <ul>
-<li>Guénin–Carlut, Avel. 2023. “Strange Things, Statespace Representation, and Participatory Realism - Comment on ‘Path Integrals, Particular Kinds, and Strange Things.’ by Friston et Al.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/urz26">https://doi.org/10.31219/osf.io/urz26</a>.<ul>
-<li>Accepted at the Physics of Life journal</li>
+<li><a href="https://kairos-research.org/clothes-of-the-empire/">The Clothes of the Empire : an Active Inference account of identity capture</a></li>
+<li><a href="https://kairos-research.org/historical-processes/">Cliodynamics, or the study of historical processes</a></li>
+<li><a href="https://kairos-research.org/beyond-state/">Beyond State</a></li>
+</ul>
+<h3 id="our-publications">Our publications</h3>
+<ul>
+<li>Guénin–Carlut, Avel, and Mahault Albarracin. 2023. “On Embedded Normativity - An Active Inference Account of Agency beyond Flesh.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/7x8cm">https://doi.org/10.31219/osf.io/7x8cm</a>.<ul>
+<li>Accepted at the <a href="https://iwaiworkshop.github.io/">4th International Workshop
+on Active Inference</a></li>
 </ul>
 </li>
+<li>Guenin-Carlut, Avel, Ben White, and Lorena Sganzerla. 2023. “The Cognitive Archaeology of Sociocultural Lifeforms.” In ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference. MIT Press. <a href="https://doi.org/10.1162/isal_a_00670">https://doi.org/10.1162/isal_a_00670</a>.<ul>
+<li><a href="https://youtu.be/tXTj5_hkRPQ">Extended poster presentation</a></li>
+</ul>
+</li>
+<li>Guénin–Carlut, Avel. 2022. ‘Cognitive Agency in Sociocultural Evolution’. <a href="https://osf.io/x7yr4/">https://osf.io/x7yr4/</a> (January 14, 2022).</li>
+<li>Guénin—Carlut, Avel. 2022. “Thinking like a State : Embodied Intelligence in the Deep History of Our Collective Mind.” IOP Conference Series: Materials Science and Engineering 1261 (1): 012026. <a href="https://doi.org/10.1088/1757-899X/1261/1/012026">https://doi.org/10.1088/1757-899X/1261/1/012026</a>.</li>
+<li>Guénin–Carlut, A. (2020). Beyond State—Drafting a prospective anthropology. <a href="https://doi.org/10.17605/OSF.IO/EHQJS">https://doi.org/10.17605/OSF.IO/EHQJS</a></li>
+</ul>
+<h3 id="our-talks">Our talks</h3>
+<ul>
+<li><strong>2023 August 22 :</strong> “On Embedded Normativity - “, Research conference, in the <a href="https://coda.io/@active-inference-institute/3rd-applied-active-inference-symposium/program-4">3rd Applied Active Snference Symposium</a>, by Avel GUÉNIN–CARLUT<ul>
+<li><a href="https://youtu.be/vqZG0UNseaw">Conference</a></li>
+</ul>
+</li>
+<li><strong>2023 July 28 :</strong> “The Cognitive Archeology of Sociocultural Lifeforms”, Poster presentation, in the <a href="https://2023.alife.org/">ALife 2023</a> conference, by Avel GUÉNIN–CARLUT<ul>
+<li><a href="https://youtu.be/tXTj5_hkRPQ">Extended poster presentation</a></li>
+</ul>
+</li>
+<li><strong>2023 March 24 :</strong> “Embodied Normativity”, Research conference, in the <a href="https://embodied-intelligence.org/">Embodied Intelligence Conference 2023</a>, by Manon JOB, Avel GUÉNIN–CARLUT and Mahault ALBARRACIN, </li>
+<li><strong>2023 March 16 :</strong> “Creating material and cultural landscapes - A constraints ontology for multiscale socio-historical dynamics”, Research conference, in the <a href="https://www.kielconference.uni-kiel.de/">Kiel Conference 2023: Scales of Social, Environmental, and Cultural Change in Past Societies</a>, by Avel GUÉNIN–CARLUT.</li>
+<li><strong>2021 October 16 :</strong> “Thinking like a State - Embodied intelligence in the deep history of our collective mind”, Research conference, by Avel GUÉNIN–CARLUT, Virginia Bleu KNIGHT and Daniel FRIEDMAN, in <a href="https://www.cognitio2021.com/">Cognitio 2021</a>.</li>
+<li><strong>2021 June 29 :</strong> “Grounding collective intelligence”, Research talk, in <a href="https://www.acm-ci2021.com/">ACM Collective Intelligence Conference 2021</a>, by Avel GUÉNIN–CARLUT and Daniel FRIEDMAN. Open access <a href="https://osf.io/esaqv/">slides</a> and <a href="https://www.youtube.com/watch?v=g8P5xDm6LoM&amp;list=PL9WaAfD3k05G50KwNFkUUOuPQDpJx2D7d&amp;t=925s">video</a></li>
+<li><strong>2021 June 10 :</strong> “Social morphogenesis as enactive agency”, Discussion panel, in <a href="https://culturalevolutionsociety.org/story/Conferences">Cultural Evolution Society Conference 2021</a>, by Avel GUÉNIN–CARLUT. Open access <a href="https://osf.io/rxjba/">slides</a> and <a href="https://youtu.be/hxU0jbvlu0U">video</a></li>
+<li><strong>2020 November 27 :</strong> “Cultural evolution of psychedelics usage, and the “entropic brain” hypothesis”, Invited talk, in Cultural Evolution Online’s seminar, by Avel GUÉNIN–CARLUT. <a href="https://pad.lamyne.org/s/SyA2FBRqv">Open access notes</a></li>
+<li><strong>2020 May 5 &amp; 26</strong> : “Do collective brains dream of cultural evolution ?”, Invited talk, in Frederic NEF’s “Structures et agents” class, ENS Ulm, by Avel GUÉNIN–CARLUT.</li>
+<li><strong>2019 March 30 :</strong> “Is cognition an exemple of evolution ?”, Conference, in French Federation of Students &amp; Young Researchers in Cognitive Science (FRESCO)’s Young Researchers Symposium, by Avel GUÉNIN–CARLUT.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Politics, theory and practice</title>
+        <author>
+            <name>Kairos Collective</name>
+        </author>
+        <link href="https://kairos-research.org/politics-theory-and-practice/"/>
+        <id>https://kairos-research.org/politics-theory-and-practice/</id>
+            <category term="Projects"/>
+
+        <updated>2023-10-23T22:01:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    When we consider the manner in which human collectives take decisions or establish norms, we tend to think of these phenomenons as belonging to the discrete domain of the political. This conception is inherited from the social organization of ancient Greeks, which was centered around&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>When we consider the manner in which human collectives take decisions or establish norms, we tend to think of these phenomenons as belonging to the discrete domain of the <em>political</em>. This conception is inherited from the social organization of ancient Greeks, which was centered around city-states (<em>polis</em>) where the assembly of the citizens was understood as the source of all authority in managing public affairs (<em>politiká</em>, or literally “the affairs of the city”). The notion of the political still evokes the exercise of and the negotiations around “government”, understood as a key subset of people and institutions with the power and legitimacy to enforce norms and decisions onto a broader society. This picture seems especially convincing today, since the social and material infrastructure of modern States enable an unprecedented level of centralization in decision taking - although this power can lie in the hands of pluralistic elected parliaments as well as those of authoritarian strongmen. To participate in public affairs, it appears, reduces to influencing the decisions of those in power through public debate, voting, demonstration, or revolution. </p>
+<p>Yet, each human action participate in constructing the landscape of cultural norms and expectations in which social activity occurs : all action prefigures the emergence of one world or of another. In consequence, we must understand the variety of human organizations that don’t revolve around influencing or opposing current governmental forms and institutions as “political” in their own right. Throughout the world, we can observe variety of arrangements pertaining to resource distribution and appropriation, land use, energy management, information processing and communication that don’t neatly align with currently existing governmental or state mechanisms. In particular, “commoning” emerges interculturally as a robust way to manage shared resources through shared norms regarding the use of those resources, which do necessitate the concentration of power in central administration or individual landlords. This is especially true for the economy of knowledge, as (unlike with material goods) producers can typically reproduce the product of their work at minimal cost to themselves and therefore rely on unconditional cooperation to cement economic reciprocity relationships. Such “alternative” institutions - whether traditional, innovative, or both - still exist within a context dominated by States and other centralizing administrations. Therefore, they tend to build symbiotic relationships with centralizing institutions, attempt to avoid their influence altogether, or enter direct conflict with them.</p>
+<p>Kairos aims to probe the historical dynamics defined by centralizing institutions and their competitors, while staying away from the simplistic dichotomies of human vs environment, markets vs state, democracy vs autocracy, or people vs elites. Generally, we attempt to question the modern notion that government <em>represent</em> the will of their citizens, rather than pursuing their own agendas while trying to produce legitimacy through ideological mobilization. By contrast, we would like to understand the emerging forms of collective action and coordination in the Anthropocene, and to do so we document existing movements both within and at the margins of centralizing institutions - be they authoritarian neoliberals, reactionary movements, left-wing populists, cults, cartels, rural insurrection armies, collectives of hackers, 3D printing experts and guerillas gardeners, or homesteaders. We experiment ourselves with the possibilities of self-organization through our own activity as a decentralized knowledge-oriented collective, with the intent of using our own case as a way to gauge the possibilities of decentralized organization and draw general insight into the more general problem of collective action. In doing so, we try to cartography the space of plausible futures and gauge how we can push the scales toward the most desirable ones. </p>
+<h3 id="related-kairos-articles">Related Kairos articles</h3>
+<ul>
+<li><a href="https://kairos-research.org/clothes-of-the-empire/">The Clothes of the Empire : an Active Inference account of identity capture</a></li>
+<li><a href="https://kairos-research.org/beyond-state/">Beyond State</a></li>
+</ul>
+<h3 id="our-research-talks">Our research talks</h3>
+<ul>
+<li><strong>2023 October 20 :</strong> “Identity capture in the Unification Church - An Active Inference account of power”, Research conference, at the Societies in Historical and Comparative Perspective conference, by Avel GUÉNIN–CARLUT.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Naturalism, Enactivism, Pragmatism</title>
+        <author>
+            <name>Kairos Collective</name>
+        </author>
+        <link href="https://kairos-research.org/naturalism-enactivism-pragmatism/"/>
+        <id>https://kairos-research.org/naturalism-enactivism-pragmatism/</id>
+            <category term="Projects"/>
+
+        <updated>2023-10-23T22:00:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Our growing ability to describe and represent natural process has driven an undeniable progress of scientific knowledge, instantiated in a multitude of context-specific models of the dynamics of biological, cognitive, and social systems. However, philosophy (and especially the philosophy of science) struggle to capture the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Our growing ability to describe and represent natural process has driven an undeniable progress of scientific knowledge, instantiated in a multitude of context-specific models of the dynamics of biological, cognitive, and social systems. However, philosophy (and especially the philosophy of science) struggle to capture the plurality and contextuality of scientific knowledge. Indeed, most philosophers seem mostly interested in selling their own variant of worldviews articulated by long dead people, rather than bridging the gap between scientific understanding of the world and their conceptual architectures. For example, the positivist view of reality as the set of true statements erases the gap between specific scientific languages - each equipped with their own possibilities, constraints, and colloquialisms - and the irreducible causal structure of natural processes. Worse: it denies <em>prima facie</em> the very existence of natural processes beyond the realm of linguistic legibility. Yet, philosophers fail to question this view as it conflicts with their self-assigned role of guiding science toward truth. Scientists themselves tend to be comfortable with philosophies which suggests that the contextual validity of their own language entails its metaphysical truth. The way this belief implicitly shapes both scientific and philosophical research therefore leads to a suicide of thought, where every academic community treats its own jargon as revealed truth while failing to verify even the internal coherence of such a claim. </p>
+<p>In response to that state of affair, we propose an alternative approach doubling down on contemporary naturalistic philosophy (Quine, Whitehead, Lakoff) and scientific frameworks (quantum and statistical physics, systems modeling, cognitive neuroscience). This perspective escapes the blind conceptual dichotomies restraining modern philosophy (subject/object ; passive/active ; true/false) and gives back ontological consistency to the entities postulated by science. It does so by accounting to the construction of natural kinds through active engagement, as occurs for example when linguistic activity enables the social construction of cognitive types. This “participatory realism” leads to a picture of an open-ended, unfolding world where the pragmatic representations recruited by cognitive agents or physical observers constrain and construct the space of natural kinds - rather than simply supervene onto a preexisting set of possible entities and their underlying physical processes. Our objective in doing so is to produce an ontologically consistent naturalism, but also to account for the role that active engagement plays both in the evolution of the natural world and in the construction of our model of it. In consequence, the worldview we’re articulating is at its core naturalistic, but also pragmatist and enactivist. </p>
+<p>We do acknowledge that these three schools of thought have not totally departed from their Modernist prejudices. Many of their variants fall into the trap of metaphysical speculation, or try to reduce/eliminate cognition to a supervenient description of unstructured neural processes. However, they collectively enable us to embed thoughts in the natural world as perceptions and practices, or more simply to consider our thoughts about the world as natural processes in and of themselves so as to ground their own existence in the universe. The question we need to solve before we can tout a fully coherent naturalistic world view are many. How can a naturalistic framework deal with the existence of “non-existent” or “almost-existent” categories, such as those we construct through language? What is the relation between the ontology we develop through our cognitive engagement with the world, and the biological and neural processes which underlie this engagement? On the other hand, what is the role of social constraints and cultural norms in either? What language can represent the constructive role of language itself? And if none can, can we be satisfied with a model of the world which is itself contingent and unfolding? Answering those questions, as well as other related ones, is the core of the philosophical research we undertake in Kairos. </p>
+<h3 id="related-kairos-articles">Related Kairos articles</h3>
+<ul>
+<li><a href="https://kairos-research.org/on-participatory-realism/">On participatory realism</a></li>
+<li><a href="https://kairos-research.org/cognition-in-eco/">Cognition <em>in eco</em>, cognition <em>in vitro</em></a></li>
+<li><a href="https://kairos-research.org/naturalism-social-sciences/">Naturalism in the social sciences : a short review</a></li>
+</ul>
+<h3 id="our-publications">Our publications</h3>
+<ul>
 <li>Guénin–Carlut, Avel, and Mahault Albarracin. 2023. “On Embedded Normativity - An Active Inference Account of Agency beyond Flesh.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/7x8cm">https://doi.org/10.31219/osf.io/7x8cm</a>.<ul>
 <li>Accepted at the <a href="https://iwaiworkshop.github.io/">4th International Workshop
 on Active Inference</a></li>
@@ -396,20 +437,15 @@ on Active Inference</a></li>
 </ul>
 </li>
 <li>Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/68947">https://doi.org/10.31219/osf.io/68947</a>.</li>
-<li>Friedman, Daniel et al. 2022. ‘An Active Inference Ontology for Decentralized Science: From Situated Sensemaking to the Epistemic Commons’. <a href="https://zenodo.org/record/6320575">https://zenodo.org/record/6320575</a> (March 7, 2022).</li>
-<li>Guénin–Carlut, Avel. 2022. ‘Cognitive Agency in Sociocultural Evolution’. <a href="https://osf.io/x7yr4/">https://osf.io/x7yr4/</a> (January 14, 2022).</li>
-<li>Guénin—Carlut, Avel. 2022. “Thinking like a State : Embodied Intelligence in the Deep History of Our Collective Mind.” IOP Conference Series: Materials Science and Engineering 1261 (1): 012026. <a href="https://doi.org/10.1088/1757-899X/1261/1/012026">https://doi.org/10.1088/1757-899X/1261/1/012026</a>.</li>
 <li>Guénin–Carlut, A. (2020). Cognition in eco, cognition in vitro - Measurement and explanation in cognitive science <a href="https://doi.org/10.17605/OSF.IO/ERCZ6">https://doi.org/10.17605/OSF.IO/ERCZ6</a></li>
-<li>Guénin–Carlut, A. (2020). Beyond State—Drafting a prospective anthropology. <a href="https://doi.org/10.17605/OSF.IO/EHQJS">https://doi.org/10.17605/OSF.IO/EHQJS</a></li>
 </ul>
-<h2 id="our-research-talks">Our research talks</h2>
+<h3 id="our-talks">Our talks</h3>
 <ul>
-<li><strong>2023, August 19 :</strong> “Unveiling the Ontological implications of Motivation and Directedness Towards Inostensible Referents”, Research conference, in the <a href="https://imolconf2023.github.io/">Intrinsically Motivated Open-ended Learning 2023 conference</a>, by Alexis ROZANSKI <ul>
+<li><strong>2023, September 14 :</strong> “Unveiling the Ontological implications of Motivation and Directedness Towards Inostensible Referents”, Research conference, in the <a href="https://imolconf2023.github.io/">Intrinsically Motivated Open-ended Learning 2023 conference</a>, by Alexis ROZANSKI <ul>
 <li><a href="https://github.com/Onto-Log/onto-log.github.io/blob/main/files/projects/Alexis_Rozanski_Poster_IMOL_2023.pdf">Poster</a></li>
 </ul>
 </li>
-<li><strong>2023 September 13 :</strong> “On Embedded Normativity - An Active Inference account of agency beyond flesh”, Research conference, at the <a href="https://iwaiworkshop.github.io/">4th International Workshop on Active Inference</a>, by Avel GUÉNIN–CARLUT and Mahault ALBARRACIN</li>
-<li><strong>2023 August 22 :</strong> “On Embedded Normativity”, Research conference, in the <a href="https://coda.io/@active-inference-institute/3rd-applied-active-inference-symposium/program-4">3rd Applied Active Inference Symposium</a>, by Avel GUÉNIN–CARLUT<ul>
+<li><strong>2023 August 22 :</strong> “On Embedded Normativity - “, Research conference, in the <a href="https://coda.io/@active-inference-institute/3rd-applied-active-inference-symposium/program-4">3rd Applied Active Snference Symposium</a>, by Avel GUÉNIN–CARLUT<ul>
 <li><a href="https://youtu.be/vqZG0UNseaw">Conference</a></li>
 </ul>
 </li>
@@ -418,84 +454,47 @@ on Active Inference</a></li>
 <li><a href="https://youtu.be/tXTj5_hkRPQ">Extended poster presentation</a></li>
 </ul>
 </li>
-<li><strong>2023 March 24 :</strong> “Embodied Normativity”, Research conference, in the <a href="https://embodied-intelligence.org/">Embodied Intelligence Conference 2023</a>, by Manon JOB, Avel GUÉNIN–CARLUT and Mahault ALBARRACIN, </li>
-<li><strong>2023 March 16 :</strong> “Creating material and cultural landscapes - A constraints ontology for multiscale socio-historical dynamics”, Research conference, in the <a href="https://www.kielconference.uni-kiel.de/">Kiel Conference 2023: Scales of Social, Environmental, and Cultural Change in Past Societies</a>, by Avel GUÉNIN–CARLUT.</li>
-<li><strong>2023 January 23 :</strong> “Physics of Creation - Can the Free Energy Principle ground the construction of physical statespaces ?”, Research conference, in the <a href="activeinference.org/">Active Inference Institute</a> Livestream, by Avel GUÉNIN–CARLUT. <ul>
-<li><a href="https://www.youtube.com/watch?v=9IPx38SHGqw">Video</a></li>
 </ul>
-</li>
-<li><strong>2021 October 17 :</strong> “Intelligence without creativity - Can Active Inference ground our understanding of life, mind and society ?”, Research conference, in <a href="https://www.cognitio2021.com/">Cognitio 2021</a>, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/dyh67/">Slides</a></li>
-<li><a href="https://www.youtube.com/watch?v=4R_vsGGlKCI">Video</a></li>
-</ul>
-</li>
-<li><strong>2021 October 16 :</strong> “Thinking like a State - Embodied intelligence in the deep history of our collective mind”, Research conference, by Avel GUÉNIN–CARLUT, Virginia Bleu KNIGHT and Daniel FRIEDMAN, in <a href="https://www.cognitio2021.com/">Cognitio 2021</a>.</li>
-<li><strong>2021 June 29 :</strong> “Grounding collective intelligence”, Research talk, in <a href="https://www.acm-ci2021.com/">ACM Collective Intelligence Conference 2021</a>, by Avel GUÉNIN–CARLUT and Daniel FRIEDMAN.w<ul>
-<li><a href="https://osf.io/esaqv/">Slides</a></li>
-<li><a href="https://www.youtube.com/watch?v=g8P5xDm6LoM&amp;list=PL9WaAfD3k05G50KwNFkUUOuPQDpJx2D7d&amp;t=925s">Video</a></li>
-</ul>
-</li>
-<li><strong>2021 June 10 :</strong> “Social morphogenesis as enactive agency”, Discussion panel, in <a href="https://culturalevolutionsociety.org/story/Conferences">Cultural Evolution Society Conference 2021</a>, by Avel GUÉNIN–CARLUT. <ul>
-<li><a href="https://osf.io/rxjba/">Slides</a></li>
-<li><a href="https://youtu.be/hxU0jbvlu0U">Video</a></li>
-</ul>
-</li>
-<li><strong>2021 February 2 :</strong> “Cognition <em>in eco</em> &amp; cognition <em>in vitro</em> : can cognitive mechanisms explain ecological behaviour ?”, Invited talk, in French Federation of Students &amp; Young Researchers in Cognitive Science (FRESCO)’s Journal club, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/cv3ed/">Slides</a></li>
-</ul>
-</li>
-<li><strong>2020 November 27 :</strong> “Cultural evolution of psychedelics usage, and the “entropic brain” hypothesis”, Invited talk, in Cultural Evolution Online’s seminar, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://pad.lamyne.org/s/SyA2FBRqv">Notes</a></li>
-</ul>
-</li>
-<li><strong>2020 May 5 &amp; 26</strong> : “Do collective brains dream of cultural evolution ?”, Invited talk, in Frederic NEF’s “Structures et agents” class, ENS Ulm, by Avel GUÉNIN–CARLUT.</li>
-<li><strong>2019 March 30 :</strong> “Is cognition an exemple of evolution ?”, Conference, in French Federation of Students &amp; Young Researchers in Cognitive Science (FRESCO)’s Young Researchers Symposium, by Avel GUÉNIN–CARLUT.</li>
-</ul>
-<h2 id="our-mediation-talks">Our mediation talks</h2>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Physics of Creation</title>
+        <author>
+            <name>Kairos Collective</name>
+        </author>
+        <link href="https://kairos-research.org/physics-of-creation/"/>
+        <id>https://kairos-research.org/physics-of-creation/</id>
+            <category term="Projects"/>
+
+        <updated>2023-10-23T21:59:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Unlike simpler physical system, biological and cognitive systems are not simply defined by their boundary conditions and their basic physical structure. They capture ambient energy gradients (sunlight, thermal sources, chemical potential within other biological systems…) and canalize them into continuously (re)constructing their own organization. This&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Unlike simpler physical system, biological and cognitive systems are not simply defined by their boundary conditions and their basic physical structure. They capture ambient energy gradients (sunlight, thermal sources, chemical potential within other biological systems…) and canalize them into continuously (re)constructing their own organization. This property is known in the life sciences as <em>autonomy</em>, or <em>autopoïesis</em> (self-creation). But if biological and cognitive systems can <em>(re)create</em> themselves, they can construct and explore spaces of possibles that are not entailed by physical laws. The study of what drives the evolution of <em>adjacent possibles</em>, and how to describe it physically, has shown to be a terribly hard problem. The reason is simple: physics work by drawing a space of possibles (a statespace), and then writing the constraints over motion in that space. The construction of possibles has been entirely left out of the framework of physical explanation as it was articulated since modern times, due to the assumption that physical phenomena should unfold onto a preexisting space of physical possibilities. </p>
+<p>The Physics of Creation project aims to address that limitation by articulating a mathematical framework which starts from the perspective of biological and cognitive activity, rather than the abstract space of physical possibles. Our approach is based on the fundamental continuity between biology and cognition, or in other words on the duality between the constraints that constitute cognitive agents and those they bring about through their ecological activity. Cognitive agents’ ability to perceive and navigate their world is critically enabled by their material means of sensing and acting onto their material environment, and it is motivated by their drive toward the continued existence of their constitutive organization. Because of this, an agent’s engagement with the world implicitly entails a model of their own structural identity, or in other words of the collections of factors which makes them what they are. Conversely, the self-creation (<em>autopoïesis</em>) of biological agents’ organization entails the unfolding of the cognitive reality (of the space of possibles) they experience. An accurate mathematical theory of this process, we hope, may enable a broader account of the construction of physical reality. </p>
+<p>By construction, this approach exists at the crossroads of many academic disciplines, most notably philosophy, mathematical physics, and the life sciences. However, our central phenomenon of interest is the collective construction and enaction of cultural landscapes by human societies. If we can account for the way human integrate and enact cultural expectations, and (re)construct the underlying landscape of possibilities in the process, then we can account for open-ended evolution in the general case. To account for that, we focus mainly on two fields of formal research. The first is quantum information theory, a approach to quantum physics which centers on the process of observation itself, and on the implicit constraints it produces on physical interaction as the basis of physical structure. The second is category theory, a meta-mathematical theory which centers on the properties of mathematical structure (the relation between mathematical objects) itself, therefore constituting a natural grounding for describing the construction of physical structure itself. We hope to recruit those approaches to formalize a fully observer-centric, relational formalism which can account for the duality between biological constraints and cognitive reality, and for the dynamics of their construction.</p>
+<h3 id="related-kairos-articles">Related Kairos Articles</h3>
 <ul>
-<li><strong>2023 October 18 :</strong> “Social constraints and the existential stance - What makes us human”, Session of the <a href="https://coda.io/d/Active-Inference-for-the-Social-Sciences-AII-2023_dVVFg3pdihg/Course-Home_sumEh#_lu_fo">Active Inference in the Social Science</a> course, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://www.youtube.com/watch?v=StyeVhPobXg">Video</a></li>
+<li><a href="https://kairos-research.org/on-participatory-realism/">On Participatory Realism</a></li>
 </ul>
-</li>
-<li><strong>2021 November 14 :</strong> “Future of cryptocurrencies”, Panel discussion, Future Fossils podcast at <a href="https://www.complexityweekend.com/">Complexity Weekend</a>, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://www.youtube.com/watch?v=dh2TeCVPcrI">Video</a>.</li>
-</ul>
-</li>
-<li><strong>2021 August 14 :</strong> “Why people believe weird things ?”, Scepticisme Scientifique podcast, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/zgjy5/">Slides</a></li>
-<li><a href="https://www.youtube.com/watch?v=v5dl82CLNag">Video</a></li>
-</ul>
-</li>
-<li><strong>2021 August 03 :</strong> Interview with the “Labo des savoirs”, by Avel GUÉNIN–CARLUT and Iona BRENAC. </li>
-<li><strong>2021 July 21 :</strong> Kairos : toward an enactive research, Conference talk, in the <a href="https://sold21.sciencesconf.org/">Open, Slow, and Sustainable Science conference 2021</a>, by Avel GUÉNIN–CARLUT and Iona BRENAC.<ul>
-<li><a href="https://osf.io/aty4s/">Slides (French)</a></li>
-</ul>
-</li>
-<li><strong>2021 June 23 :</strong> Complex systems methodology for navigating the Anthropocene, Unconference, in the <a href="https://dandelion.earth/events/606dd3e63acbbf000ddaf497">Tools for the Regenerative 
-Renaissance</a> course</li>
-<li><strong>2021 May 12 :</strong> “Cognition <em>in eco</em> &amp; cognition <em>in vitro</em> : can cognitive mechanisms explain ecological behaviour ?”, Public lesson, in Cours aux Ernest, ENS Ulm, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/cv3ed/">Slides</a></li>
-</ul>
-</li>
-<li><strong>2021 May 5 :</strong> “The architecture of cognition”, Public lesson, in Cours aux Ernest, ENS Ulm, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/un5vx/">Slides</a></li>
-</ul>
-</li>
-<li><strong>2021 April 11</strong> : “Cognition <em>in eco</em> &amp; cognition <em>in vitro</em> : can cognitive science explain ecological behaviour ?”, in the Cognitive Science Forum, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/524jd/">Poster (French)</a></li>
-</ul>
-</li>
-<li><strong>2021 February 10</strong> : “Evolution of concepts in cognitive scences”, Public lesson, in Cours aux Ernest, ENS Ulm, by Iona BRENAC.</li>
-<li><strong>2021 February 2</strong> : “Cognition <em>in eco</em> &amp; cognition <em>in vitro</em> : can cognitive science explain ecological behaviour ?”, in FRESCO journal club, by Avel GUÉNIN–CARLUT.</li>
-<li><strong>2020 October 16 :</strong> “Beyond State : toward a prospective anthropology”, Conference, in the French Society of Cultural Evolution (SFEC)’s conferences, by Avel GUÉNIN–CARLUT.<ul>
-<li><a href="https://osf.io/nj97e/">Slides</a></li>
-</ul>
-</li>
-<li><strong>2020 January 16</strong> : “Is cognition individual ? A complex system perspective”, in Cognivence BAF talks, ENS Ulm, by Avel GUÉNIN–CARLUT.</li>
-</ul>
-<h2 id="our-software-projects">Our software projects</h2>
+<h3 id="our-publications">Our publications</h3>
 <ul>
-<li>Rozanski, Alexis. 2022. Tractatus-Markdowno-Obsidianicus. <a href="https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus">https://github.com/Onto-Log/Tractatus-Markdowno-Obsidianicus</a> (January 26, 2022).</li>
+<li>Guénin—carlut, Avel. 2023. “Strange Things, Statespace Representation, and Participatory Realism - Comment on ‘Path Integrals, Particular Kinds, and Strange Things.’ by Friston et Al.” Physics of Life Reviews, October. <a href="https://doi.org/10.1016/j.plrev.2023.10.027">https://doi.org/10.1016/j.plrev.2023.10.027</a>.<ul>
+<li><a href="https://doi.org/10.31219/osf.io/urz26">OSF preprint</a></li>
+</ul>
+</li>
+<li>Guénin–Carlut, Avel. 2022. “Physics of Creation - Symmetry Breaking, (En)Active Inference, and Unfolding Statespaces.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/68947">https://doi.org/10.31219/osf.io/68947</a>.</li>
+</ul>
+<h3 id="our-research-talks">Our research talks</h3>
+<ul>
+<li><strong>2023 January 23 :</strong> “Physics of Creation - Can the Free Energy Principle ground the construction of physical statespaces ?”, Research conference, in the <a href="activeinference.org/">Active Inference Institute</a> Livestream, by Avel GUÉNIN–CARLUT. <a href="https://www.youtube.com/watch?v=9IPx38SHGqw">Video</a></li>
+<li><strong>2021 October 17 :</strong> “Intelligence without creativity - Can Active Inference ground our understanding of life, mind and society ?”, Research conference, in <a href="https://www.cognitio2021.com/">Cognitio 2021</a>, by Avel GUÉNIN–CARLUT. Open access <a href="https://osf.io/dyh67/">slides</a> and <a href="https://www.youtube.com/watch?v=4R_vsGGlKCI">video</a></li>
 </ul>
 
             ]]>
